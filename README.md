@@ -1,6 +1,7 @@
 # itp-wou-fall-2022
 This is the repository for ITP class Website of You.
 
+
 ## Info
 * Joohyun Park [📧](mailto:jhp527@nyu.edu)
 * [Syllabus](https://jooohyunpark.github.io/itp-wou-fall-2022/)
@@ -10,12 +11,14 @@ This is the repository for ITP class Website of You.
   * 10/06/2022, Thursday, 6:30pm-8:30pm
   * 10/13/2022, Thursday, 6:30pm-9:30pm*
 
+
 ## Course ojbectives
 At the completion of this course, the students will:
 
 1. Be comfortable designing visuals/UX for static web application
 2. Learn modular programming patterns in javascript using Vue.js
 3. Build and deploy a custom portfolio website (or equivalent)
+
 
 ## Week 1 - Intro / Vue Basics
 Brief intro– introducing each other, portfolio websites, why we use javascript frameworks. Then, pull down nuxt boilerplate and go through concept and structure.
@@ -32,6 +35,7 @@ Understand vue basics, and create a reusable link button in multiple pages using
 * Making button component
 * Nuxt link-to
 * Default.vue for global elements
+* 
 
 ## Week 2 - Directives / Responsive Layout
 Create Home that has a header, footer, and project thumbnails.
@@ -45,12 +49,14 @@ Apply styles to Home. Introduce basic scss, flexbox concept, use bootstrap for a
 * Sass basics and concept (nesting)
 * Responsive layout using bootstrap
 
+
 ## Week 3 - Scripts / Libraries
 Explore how to export/import custom scripts and external libraries in components. We will create an About page, and pull p5.js scene and some UIs from bootstrap.
 * Import/export custom functions (es6)
 * Use bootstrap UIs in component
 * Pull p5.js (three.js) scripts in component
 * (recab)
+
 
 ## Week 4 - State Management / Deploy / Presentations
 Advanced methods to handle events between components. We will test out how to emit events and update state globally.
@@ -64,3 +70,15 @@ Go through some SEO practices with meta tags, and explore different deployment o
 * Gitpage
 * Netlify
 * SFTP (dreamhost)
+
+
+## Tools
+* [Vue.js](https://vuejs.org/) – The progressive javaScript framework for building UI
+* [Nuxt.js](https://nuxtjs.org/) – JavaScript library based on Vue.js
+* [Sass](https://sass-lang.com/) – Powerful CSS extension language for advanced styling
+* [Bootstrap](https://getbootstrap.com/) – CSS framework for responsive web development
+
+
+## Additional Resources
+* [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
+* [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
