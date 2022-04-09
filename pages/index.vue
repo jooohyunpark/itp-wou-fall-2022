@@ -5,10 +5,12 @@
         <!-- header -->
         <div class="col-12 col-md-4 header">
           <h1>Website of You</h1>
-          <p>ITP 2022 Fall</p>
-          <p>Joohyun Park</p>
+          <h4>ITP 2022 Fall</h4>
+          <p>Joohyun Park / jhp527@nyu.edu</p>
           <p>
-            <a href="https://github.com/jooohyunpark/itp-wou-fall-2022"
+            <a
+              href="https://github.com/jooohyunpark/itp-wou-fall-2022"
+              target="_blank"
               >Github repo</a
             >
           </p>
@@ -16,6 +18,73 @@
 
         <!-- content -->
         <div class="col-12 col-md-8 content">
+          <!-- description -->
+          <div class="row description">
+            <div class="col-12">
+              <h2>Description</h2>
+              <p>
+                Portfolio website is a creative window for artists to showcase
+                their projects. But beyond its aesthetic purpose, it can also be
+                a good resource to learn the backbone of modern javascript
+                frameworks.
+              </p>
+              <p>
+                In this 4-week class, we will explore how to build a portfolio
+                website from the ground up using Vue.js. The class aims to
+                create a static web application consisting of basic pages (Home,
+                About, Project) and elements (Header, Footer, Content,
+                Navigation, CTA). Students will design responsive UI, create
+                modular components, and implement advanced styles and javascript
+                libraries to showcase their artworks with unrestrained
+                creativity on a browser.
+              </p>
+              <p>
+                This class is programming-focused and designed for students
+                seeking to create a custom portfolio site or to learn about
+                modern javascript framework. Basic front-end tech stack
+                (html/css, javascript, npm) is required. Students must take ICM
+                and at least one other javascript programming class. Experience
+                with responsive web design is helpful.
+              </p>
+            </div>
+          </div>
+
+          <!-- objective -->
+          <div class="row objective">
+            <div class="col-12">
+              <h2>Course Objectives</h2>
+              <p>At the completion of this course, the students will:</p>
+              <ol>
+                <li>
+                  Be comfortable designing visuals/UX for static web application
+                </li>
+                <li>
+                  Learn modular programming patterns in javascript using Vue.js
+                </li>
+                <li>
+                  Build and deploy a custom portfolio website (or equivalent)
+                </li>
+              </ol>
+            </div>
+          </div>
+
+          <!-- schedule -->
+          <div class="row schedule">
+            <div class="col-12">
+              <h2>Schedule</h2>
+            </div>
+            <div class="col-12">
+              <h3>Week 1 – Intro / Vue Basics</h3>
+              <p>
+                Plagiarism is presenting someone else’s work as though it were
+                your own. More specifically, plagiarism is to present as your
+                own: A sequence of words quoted without quotation marks from
+                another writer or a paraphrased passage from another writer’s
+                work or facts, ideas or images composed by someone else.
+              </p>
+            </div>
+          </div>
+
           <!-- statements -->
           <div class="row statements">
             <div class="col-12">
@@ -126,6 +195,10 @@ export default {
     @include media-breakpoint-down(md) {
       padding-top: 0;
     }
+  }
+
+  li {
+    line-height: 1.6em;
   }
 }
 </style>
