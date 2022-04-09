@@ -12,13 +12,34 @@ This is the repository for ITP class Website of You.
   - 10/06/2022, Thursday, 6:30pm-8:30pm
   - 10/13/2022, Thursday, 6:30pm-9:30pm\*
 
-## Course ojbectives
+## Course Ojbectives
 
 At the completion of this course, the students will:
 
 1. Be comfortable designing visuals/UX for static web application
 2. Learn modular programming patterns in javascript using Vue.js
 3. Build and deploy a custom portfolio website (or equivalent)
+
+## Get Started
+
+Clone this repo. It has weekly codebase in each folder.
+
+```bash
+$ git clone https://github.com/jooohyunpark/itp-wou-fall-2022.git
+$ cd itp-wou-fall-2022
+```
+
+You can find different examples under `/pages` in weekly folder. To run these example, run following command from the root.
+
+```bash
+$ cd week1
+$ yarn install
+$ yarn dev
+
+# localhost:3000
+# localhost:3000/example-1
+# ...
+```
 
 ## Week 1 - Intro / Vue Basics
 
