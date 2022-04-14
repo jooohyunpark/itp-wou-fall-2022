@@ -45,13 +45,13 @@ $ yarn dev
 - Intro
 
   - Introducing each other
+  - Creative portfolio website examples
   - Git, npm, package.json
   - Why Vue? (or React)
-  - Setting up nuxt.js app boilerplate in machine
-  - Nuxt code structure
 
 - Vue basics
 
+  - Nuxt code structure
   - Life cycle hooks (created, mounted, destroy)
   - Data, props, computed value
   - Component concept
@@ -79,7 +79,7 @@ $ yarn dev
   - Port p5.js canvas in component
   - Port three.js scene in component
 
-## Week 4 - State Management / Deploy / Presentations
+## Week 3 - State Management / Deploy / Presentations
 
 - State Management
 
@@ -90,7 +90,7 @@ $ yarn dev
 
 - Deploy
 
-  - build/generate command
+  - Build/generate command
   - Gitpage
   - Netlify
   - SFTP (dreamhost)
