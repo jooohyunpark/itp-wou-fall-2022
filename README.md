@@ -40,64 +40,62 @@ $ yarn dev
 # ...
 ```
 
-## Week 1 - Intro / Vue Basics
+## Week 1 - Intro / Vue Basics / Directives
 
-Brief intro– introducing each other, portfolio websites, why we use javascript frameworks. Then, pull down nuxt boilerplate and go through concept and structure.
+- Intro
 
-- Introducing each other
-- Git, npm, package.json
-- Why Vue? (or React)
-- Setting up nuxt.js app boilerplate in machine
-- Nuxt code structure
+  - Introducing each other
+  - Git, npm, package.json
+  - Why Vue? (or React)
+  - Setting up nuxt.js app boilerplate in machine
+  - Nuxt code structure
 
-Understand vue basics, and create a reusable link button in multiple pages using component.
+- Vue basics
 
-- Life cycle hooks (created, mounted, destroy)
-- Data, props, computed value
-- Component concept
-- Making button component
-- Nuxt link-to
-- Default.vue for global elements
+  - Life cycle hooks (created, mounted, destroy)
+  - Data, props, computed value
+  - Component concept
+  - Making button component
+  - Nuxt link-to
+  - Default.vue for global elements
 
-## Week 2 - Directives / Responsive Layout
-
-Create Home that has a header, footer, and project thumbnails.
-
-- Directives (v-if, v-for, v-bind, v-on)
+- Directives
   - v-if
   - v-for: loop through data
   - v-bind: rendering image
   - v-on: user events (click, mouse, mouseenter, mouseleave)
 
-Apply styles to Home. Introduce basic scss, flexbox concept, use bootstrap for applying responsive layout.
+## Week 2 - Responsive Layout / Scripts / Libraries
 
-- Sass basics and concept (nesting)
-- Responsive layout using bootstrap
+- Responsive Layout
+  - Sass basics and useful features
+  - Responsive layout using bootstrap
+- Scripts
 
-## Week 3 - Scripts / Libraries
+  - Import/export custom functions (es6)
+  - Use bootstrap UIs in component
 
-Explore how to export/import custom scripts and external libraries in components. We will create an About page, and pull p5.js scene and some UIs from bootstrap.
-
-- Import/export custom functions (es6)
-- Use bootstrap UIs in component
-- Pull p5.js (three.js) scripts in component
-- (recab)
+- Libraries
+  - Port p5.js canvas in component
+  - Port three.js scene in component
 
 ## Week 4 - State Management / Deploy / Presentations
 
-Advanced methods to handle events between components. We will test out how to emit events and update state globally.
+- State Management
 
-- Emit events to parent
-- Event bus
-- Create dark mode toggle switch in footer
-- (vuex/store)
+  - Emit events to parent
+  - Event bus
+  - Create dark mode toggle switch in footer
+  - (vuex/store)
 
-Go through some SEO practices with meta tags, and explore different deployment options with static site generation.
+- Deploy
 
-- build/generate command
-- Gitpage
-- Netlify
-- SFTP (dreamhost)
+  - build/generate command
+  - Gitpage
+  - Netlify
+  - SFTP (dreamhost)
+
+- Presentation
 
 ## Tools
 
