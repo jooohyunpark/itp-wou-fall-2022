@@ -72,88 +72,139 @@
           <div class="row schedule">
             <div class="col-12">
               <h2>Schedule</h2>
-            </div>
-            <div class="col-12">
               <h3>Week 1 – Intro / Vue Basics</h3>
-              <p>
-                Plagiarism is presenting someone else’s work as though it were
-                your own. More specifically, plagiarism is to present as your
-                own: A sequence of words quoted without quotation marks from
-                another writer or a paraphrased passage from another writer’s
-                work or facts, ideas or images composed by someone else.
-              </p>
+              <ul>
+                <li>
+                  Intro
+                  <ul>
+                    <li>Introducing each other</li>
+                    <li>
+                      Creative portfolio website examples Git, npm, package.json
+                    </li>
+                    <li>Why Vue? (or React)</li>
+                  </ul>
+                </li>
+                <li>
+                  Vue basics
+                  <ul>
+                    <li>
+                      Nuxt code structure Life cycle hooks (created, mounted,
+                      destroy)
+                    </li>
+                    <li>Data, props, computed value Component concept</li>
+                    <li>
+                      Making button component Nuxt link-to Default.vue for
+                      global elements
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  Directives
+                  <ul>
+                    <li>v-if</li>
+                    <li>v-for: loop through data</li>
+                    <li>v-bind: rendering image</li>
+                    <li>
+                      v-on: user events (click, mouse, mouseenter, mouseleave)
+                    </li>
+                  </ul>
+                </li>
+              </ul>
             </div>
           </div>
 
-          <!-- statements -->
-          <div class="row statements">
+          <!-- tools -->
+          <div class="row schedule">
             <div class="col-12">
-              <h2>Statements</h2>
+              <h2>Tools</h2>
+              <ul>
+                <li>
+                  <a href="https://vuejs.org/" target="_blank">Vue.js</a> – The
+                  progressive javaScript framework for building UI
+                </li>
+                <li>
+                  <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a> –
+                  JavaScript library based on Vue.js
+                </li>
+                <li>
+                  <a href="https://sass-lang.com/" target="_blank">Nuxt.js</a> –
+                  Powerful CSS extension language for advanced styling
+                </li>
+                <li>
+                  <a href="https://getbootstrap.com/" target="_blank"
+                    >Bootstrap</a
+                  >
+                  – CSS framework for responsive web development
+                </li>
+              </ul>
             </div>
+          </div>
+
+          <!-- additional resources -->
+          <div class="row schedule">
             <div class="col-12">
-              <h3>Statement of Academic Integrity</h3>
+              <h2>Additional Resources</h2>
+              <ul>
+                <li>
+                  <a href="https://vuetifyjs.com/en/" target="_blank"
+                    >Vuetify</a
+                  >
+                  – Vue UI Library built upon Material Design framework
+                </li>
+                <li>
+                  <a href="https://vuex.vuejs.org/" target="_blank">Vuex</a> -
+                  State management pattern + library for Vue.js applications
+                </li>
+                <li>
+                  <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+                  – Serverless platform that enables git-based automated
+                  deployments
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- evaluation -->
+          <div class="row schedule">
+            <div class="col-12">
+              <h2>Evaluation</h2>
               <p>
-                Plagiarism is presenting someone else’s work as though it were
-                your own. More specifically, plagiarism is to present as your
-                own: A sequence of words quoted without quotation marks from
-                another writer or a paraphrased passage from another writer’s
-                work or facts, ideas or images composed by someone else.
+                You are required to attend all class meetings and submit all
+                weekly assignments and a final project.
               </p>
-            </div>
-            <div class="col-12">
-              <h3>Statement of Principle</h3>
               <p>
-                The core of the educational experience at the Tisch School of
-                the Arts is the creation of original academic and artistic work
-                by students for the critical review of faculty members. It is
-                therefore of the utmost importance that students at all times
-                provide their instructors with an accurate sense of their
-                current abilities and knowledge in order to receive appropriate
-                constructive criticism and advice. Any attempt to evade that
-                essential, transparent transaction between instructor and
-                student through plagiarism or cheating is educationally
-                self-defeating and a grave violation of Tisch School of the Arts
-                community standards. For all the details on plagiarism, please
-                refer to page 10 of the Tisch School of the Arts, Policies and
-                Procedures Handbook, which can be found online at:
-                <a href="http://students.tisch.nyu.edu/page/home.html"
-                  >http://students.tisch.nyu.edu/page/home.html</a
-                >
+                Grading (pass/fail) will be based on a combination of factors:
               </p>
-            </div>
-            <div class="col-12">
-              <h3>Statement on Accessibility</h3>
+              <ul>
+                <li>
+                  Attendance, participation in class discussion, and engagement
+                  in other students' projects (40%)
+                </li>
+                <li>Assignments (40%)</li>
+                <li>Final Project (20%)</li>
+              </ul>
               <p>
-                Please feel free to make suggestions to your instructor about
-                ways in which this class could become more accessible to you.
-                Academic accommodations are available for students with
-                documented disabilities. Please contact the Moses Center for
-                Students with Disabilities at 212 998-4980 for further
-                information.
+                Please see ITP's statement on Pass/Fail which states that a
+                "Pass" is equivalent to an "A" or a "B" while anything less
+                would be considered a "Fail".
               </p>
-            </div>
-            <div class="col-12">
-              <h3>Statement on Counseling and Wellness</h3>
               <p>
-                Your health and safety are a priority at NYU. If you experience
-                any health or mental health issues during this course, we
-                encourage you to utilize the support services of the 24/7 NYU
-                Wellness Exchange 212-443-9999. Also, all students who may
-                require an academic accommodation due to a qualified disability,
-                physical or mental, please register with the Moses Center
-                212-998-4980. Please let your instructor know if you need help
-                connecting to these resources.
+                Attendance is mandatory. Please inform your teacher via email if
+                you are going to miss a class. Two unexcused absences is cause
+                for failing the class. (An unexcused lateness of 10 minutes or
+                more is equivalent to 1/2 an absence.)
               </p>
-            </div>
-            <div class="col-12">
-              <h3>Statement on use of Electronic Devices</h3>
               <p>
-                Laptops will be an essential part of the course and may be used
-                in class during workshops and for taking notes in lecture.
-                Laptops must be closed during class discussions and student
-                presentations. Phone use in class is strictly prohibited unless
-                directly related to a presentation of your own work or if you
-                are asked to do so as part of the curriculum.
+                This class will be participatory, you are expected to
+                participate in discussions and give feedback to other students
+                both in class and participate with their projects. This (along
+                with attendance) is 40% of your grade.
+              </p>
+              <p>
+                Class will culminate with final projects. You are expected to
+                push your abilities to produce something that utilizes what you
+                have learned in the class that is useful in some manner to
+                yourself or the world. This will comprise 20% of your grade.
               </p>
             </div>
           </div>
