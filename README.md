@@ -40,6 +40,14 @@ $ yarn dev
 # ...
 ```
 
+## Prerequisites
+
+Please install these on your machine before the first class.
+
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
+- Node version manager (optional) – Any node version manager such as [n](https://github.com/tj/n) or [nvm](https://github.com/nvm-sh/nvm).
+
 ## Week 1 - Intro / Vue Basics / Directives
 
 - Intro
