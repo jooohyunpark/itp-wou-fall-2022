@@ -1,6 +1,6 @@
-# Archive
+# Note
 
-This section serves as a resource archive to park some linked content from syllabus.
+This section serves as a note to provide more details about class material.
 
 ## List of creative portfolio sites
 
