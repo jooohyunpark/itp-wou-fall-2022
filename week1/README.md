@@ -1,13 +1,5 @@
 # week1
 
-## List of creative portfolio sites
-
-- https://yotammann.info/
-- https://clementgrellier.fr/
-- https://kimalbrecht.com/vis/#all
-- http://www.robinpayot.com/#eaktr
-- https://mark-appleby.com/
-
 ## Build Setup
 
 ```bash
