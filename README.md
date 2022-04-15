@@ -32,8 +32,8 @@ You can find different examples under `/pages` in weekly folder. To run these ex
 
 ```bash
 $ cd week1
-$ yarn install
-$ yarn dev
+$ yarn install # npm install
+$ yarn dev  # npm run dev
 
 # localhost:3000
 # localhost:3000/example-1
