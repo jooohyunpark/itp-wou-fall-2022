@@ -1,6 +1,6 @@
 # Docs
 
-This document serves as a resource archive to park some linked content from syllabus.
+This section serves as a resource archive to park some linked content from syllabus.
 
 ## List of creative portfolio sites
 
