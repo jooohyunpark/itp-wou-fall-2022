@@ -1,4 +1,4 @@
-# Docs
+# Archive
 
 This section serves as a resource archive to park some linked content from syllabus.
 
