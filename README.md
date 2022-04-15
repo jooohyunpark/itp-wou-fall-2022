@@ -52,7 +52,6 @@ Please install these on your machine before the first class.
 
 - Intro
 
-  - Introducing each other
   - Creative portfolio website examples
   - Git, npm, package.json
   - Why Vue? (or React)
