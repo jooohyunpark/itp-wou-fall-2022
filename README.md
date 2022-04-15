@@ -52,7 +52,7 @@ Please install these on your machine before the first class.
 
 - Intro
 
-  - Creative portfolio website examples
+  - Some creative portfolio websites
   - Git, npm, package.json
   - Why Vue? (or React)
 
@@ -118,6 +118,7 @@ Please install these on your machine before the first class.
 - [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
 - [Learn CSS](https://web.dev/learn/css/)
 - [javascript.info](https://javascript.info/)
+- [awwwards](https://www.awwwards.com/)
 
 ## Evaluation
 
