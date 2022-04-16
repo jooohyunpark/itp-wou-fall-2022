@@ -44,6 +44,7 @@ $ yarn dev  # npm run dev
 
 Please install these on your machine before the first class.
 
+- [Git](https://github.com/git-guides/install-git)
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
 - Node version manager (optional) – Any node version manager such as [n](https://github.com/tj/n) or [nvm](https://github.com/nvm-sh/nvm).
@@ -53,7 +54,7 @@ Please install these on your machine before the first class.
 - Intro
 
   - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/_note#:~:text=List%20of%20creative%20portfolio%20sites)
-  - Git, [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
+  - [Git](https://www.atlassian.com/git/tutorials/why-git), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 - Vue basics
