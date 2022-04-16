@@ -119,7 +119,9 @@ Please install these on your machine before the first class.
 
 - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 - [Quick introduction to Nuxt](https://www.youtube.com/watch?v=7ITypVi-qRY)
+- [Getting started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
 - [Nuxt tutorials](https://nuxtjs.org/tutorials)
+- [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals?friend=nuxt&utm_source=Nuxtjs.org&utm_medium=Link&utm_content=Courses&utm_campaign=nuxtjs-fundamentals)
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
 - [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
 - [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
