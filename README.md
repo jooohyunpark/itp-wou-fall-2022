@@ -63,9 +63,8 @@ Please install these on your machine before the first class.
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
   - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram) (created, mounted, unmounted)
-  - Component concept
-  - Making button component
-  - Nuxt link-to
+  - Creating [components](https://nuxtjs.org/docs/directory-structure/components)
+  - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
 
 - Directives
   - v-if
@@ -82,7 +81,7 @@ Please install these on your machine before the first class.
 
 - Styles
 
-  - Transition between routes
+  - [Transition](https://nuxtjs.org/docs/features/transitions) between pages
   - Use bootstrap UIs in component
 
 - Libraries
@@ -119,7 +118,8 @@ Please install these on your machine before the first class.
 ## Additional Resources
 
 - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
-- [Nuxt js quick introduction](https://www.youtube.com/watch?v=7ITypVi-qRY)
+- [Quick introduction to Nuxt](https://www.youtube.com/watch?v=7ITypVi-qRY)
+- [Nuxt tutorials](https://nuxtjs.org/tutorials)
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
 - [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
 - [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
