@@ -54,13 +54,13 @@ Please install these on your machine before the first class.
 
   - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/_note#:~:text=List%20of%20creative%20portfolio%20sites)
   - Git, [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
-  - Why Vue? (or React)
+  - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 - Vue basics
 
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
+  - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram) (created, mounted, unmounted)
-  - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed)
   - Component concept
   - Making button component
   - Nuxt link-to
