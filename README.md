@@ -53,7 +53,7 @@ Please install these on your machine before the first class.
 - Intro
 
   - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/_note#:~:text=List%20of%20creative%20portfolio%20sites)
-  - Git, npm, package.json
+  - Git, [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - Why Vue? (or React)
 
 - Vue basics
