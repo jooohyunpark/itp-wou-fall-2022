@@ -47,7 +47,7 @@ Please install these on your machine before the first class.
 - [Git](https://github.com/git-guides/install-git)
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
-- Node version manager (optional) – Any node version manager such as [n](https://github.com/tj/n) or [nvm](https://github.com/nvm-sh/nvm).
+- Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
 
 ## Week 1 - Intro / Vue Basics / Directives
 
@@ -55,10 +55,11 @@ Please install these on your machine before the first class.
 
   - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/_note#:~:text=List%20of%20creative%20portfolio%20sites)
   - [Git](https://www.atlassian.com/git/tutorials/why-git), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
-  - [JSX](https://reactjs.org/docs/introducing-jsx.html)
+  - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
 - Vue basics
 
+  - [Vue explained in 100s](https://www.youtube.com/watch?v=nhBVL41-_Cw&t=11s)
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
   - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram) (created, mounted, unmounted)
@@ -114,12 +115,13 @@ Please install these on your machine before the first class.
 
 ## Additional Resources
 
+- [Web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+- [Nuxt js quick introduction](https://www.youtube.com/watch?v=7ITypVi-qRY)
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
 - [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
 - [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
 - [Learn CSS](https://web.dev/learn/css/)
-- [javascript.info](https://javascript.info/)
-- [awwwards](https://www.awwwards.com/)
 
 ## Evaluation
 
