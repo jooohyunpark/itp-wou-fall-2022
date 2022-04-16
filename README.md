@@ -66,7 +66,6 @@ Please install these on your machine before the first class.
   - Component concept
   - Making button component
   - Nuxt link-to
-  - Default.vue for global elements
 
 - Directives
   - v-if
@@ -74,17 +73,21 @@ Please install these on your machine before the first class.
   - v-bind: rendering image
   - v-on: user events (click, mouse, mouseenter, mouseleave)
 
-## Week 2 - Responsive Layout / Scripts / Libraries
+## Week 2 - Responsive Layout / Styles / Libraries
 
 - Responsive Layout
+
   - Sass basics and useful features
   - Responsive layout using bootstrap
-- Scripts
 
-  - Import/export custom functions (es6)
+- Styles
+
+  - Transition between routes
   - Use bootstrap UIs in component
 
 - Libraries
+
+  - Using global scripts
   - Port p5.js canvas in component
   - Port three.js scene in component
 
@@ -115,7 +118,6 @@ Please install these on your machine before the first class.
 
 ## Additional Resources
 
-- [Web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 - [Nuxt js quick introduction](https://www.youtube.com/watch?v=7ITypVi-qRY)
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
