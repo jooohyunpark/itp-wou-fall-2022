@@ -58,9 +58,9 @@ Please install these on your machine before the first class.
 
 - Vue basics
 
-  - Nuxt code structure
-  - Life cycle hooks (created, mounted, destroy)
-  - Data, props, computed value
+  - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
+  - [Lifecycle hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram) (created, mounted, unmounted)
+  - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed)
   - Component concept
   - Making button component
   - Nuxt link-to
