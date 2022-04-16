@@ -59,7 +59,7 @@ Please install these on your machine before the first class.
 
 - Vue basics
 
-  - [Vue explained in 100s](https://www.youtube.com/watch?v=nhBVL41-_Cw&t=11s)
+  - [Vue explained in 100s](https://youtu.be/nhBVL41-_Cw)
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
   - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram) (created, mounted, unmounted)
