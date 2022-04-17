@@ -81,6 +81,7 @@ Please install these on your machine before the first class.
 
 - Styles
 
+  - Global style
   - [Transition](https://nuxtjs.org/docs/features/transitions) between pages
   - Use bootstrap UIs in component
 
