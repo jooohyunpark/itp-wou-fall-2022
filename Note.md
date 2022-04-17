@@ -21,9 +21,7 @@ This section serves as a note to provide more details about class material.
 ```bash
 # npm
  npm install --save-dev sass sass-loader@10
-```
 
-```bash
 # yarn
  yarn add --dev sass sass-loader@10
 ```
