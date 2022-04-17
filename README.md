@@ -53,7 +53,7 @@ Please install these on your machine before the first class.
 
 - Intro
 
-  - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/_note#:~:text=List%20of%20creative%20portfolio%20sites)
+  - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#:~:text=List%20of%20creative%20portfolio%20sites)
   - [Git](https://www.atlassian.com/git/tutorials/why-git), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
@@ -76,7 +76,7 @@ Please install these on your machine before the first class.
 
 - Responsive Layout
 
-  - [Sass](https://sass-lang.com/guide) basics and using in Nuxt
+  - [Scss](https://sass-lang.com/guide) basics and [using in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#:~:text=week%202-,Using%20Sass%20in%20Nuxt,-Nuxt%20will%20automatically)
   - Responsive layout using [bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) flex
 
 - Styles
