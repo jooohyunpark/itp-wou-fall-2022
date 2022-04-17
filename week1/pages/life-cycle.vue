@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "IndexPage",
+  name: "LifeCyclePage",
   data() {
     return {
       number: 100,
