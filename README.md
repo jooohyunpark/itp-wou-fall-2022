@@ -87,18 +87,16 @@ Please install these on your machine before the first class.
 
 - Libraries
 
-  - Using global function
-  - Port p5.js canvas in component
-  - Port three.js scene in component
+  - Create global function
+  - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
 
 ## Week 3 - State Management / Deploy / Presentations
 
 - State Management
 
-  - Emit events to parent
+  - [Emit events](https://vuejs.org/guide/components/events.html) to parent
   - Event bus
-  - Create dark mode toggle switch in footer
-  - (vuex/store)
+  - ([vuex](https://vuex.vuejs.org/)/[store](https://nuxtjs.org/docs/directory-structure/store/))
 
 - Deploy
 
