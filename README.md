@@ -83,11 +83,11 @@ Please install these on your machine before the first class.
 
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
   - [Transition](https://nuxtjs.org/docs/features/transitions) between pages
-  - Use bootstrap UIs in component
+  - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
 
 - Libraries
 
-  - Creating custom global function
+  - Using global function
   - Port p5.js canvas in component
   - Port three.js scene in component
 
