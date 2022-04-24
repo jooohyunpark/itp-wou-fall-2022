@@ -100,7 +100,7 @@ Please install these on your machine before the first class.
 
 - Deploy
 
-  - Build/generate command
+  - [Static site generation](https://nuxtjs.org/docs/get-started/commands/#target-static)
   - Gitpage
   - Netlify
   - SFTP (dreamhost)
