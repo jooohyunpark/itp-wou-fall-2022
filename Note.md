@@ -28,9 +28,9 @@ This section serves as a note to provide more details about class material.
 
 Once installed, you can use it by choosing from language.
 
-```bash
+```js
 <style lang="scss" scoped>
-# styles here
+  // Your styles here
 </style>
 ```
 
