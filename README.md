@@ -102,8 +102,8 @@ Please install these on your machine before the first class.
 
   - [Static site generation](https://nuxtjs.org/docs/get-started/commands/#static-deployment-pre-rendered)
   - [Gitpage](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-  - Netlify
-  - SFTP (dreamhost)
+  - [Netlify](https://www.netlify.com/)
+  - SFTP ([dreamhost](https://www.dreamhost.com/))
 
 - Presentation
 
