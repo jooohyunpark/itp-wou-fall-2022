@@ -90,12 +90,12 @@ Please install these on your machine before the first class.
   - Create global function
   - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
 
-## Week 3 - State Management / Deploy / Presentations
+## Week 3 - Events / Deploy / Presentations
 
-- State Management
+- Events
 
   - [Emit events](https://vuejs.org/guide/components/events.html) to parent
-  - Event bus
+  - Event bus in Nuxt
   - ([vuex](https://vuex.vuejs.org/)/[store](https://nuxtjs.org/docs/directory-structure/store/))
 
 - Deploy

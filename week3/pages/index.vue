@@ -15,7 +15,7 @@ export default {
   methods: {
     emitEvent1() {
       console.log("emit event 1");
-      $nuxt.$emit("event-1");
+      this.$nuxt.$emit("event-1");
     },
     emitEvent2() {
       console.log("emit event 2");
