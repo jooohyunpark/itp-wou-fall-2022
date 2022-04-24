@@ -40,20 +40,20 @@ Once installed, you can use it by choosing from language.
 
 In the latest NUXT, any component in a page can emit an event and any other component can listen to it by default. To emit an event,
 
-```bash
-$nuxt.$emit('my-custom-event')
-$nuxt.$emit('my-custom-event-with-value', 100) # We can pass the value
+```js
+this.$nuxt.$emit("my-custom-event");
+this.$nuxt.$emit("my-custom-event-with-value", 100); // We can pass the value
 ```
 
 And to capture an event,
 
-```bash
+```js
 mounted() {
    this.$nuxt.$on('my-custom-event', () => {
-     # Your call back function
+    // Your call back function
    })
    this.$nuxt.$on('my-custom-event-with-value', (value) => {
-     # Read the passed value
+    // Read the passed value
      console.log(value)
    })
 }
