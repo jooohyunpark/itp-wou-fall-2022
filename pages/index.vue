@@ -23,28 +23,24 @@
             <div class="col-12">
               <h2>Description</h2>
               <p>
-                Portfolio website is a creative window for artists to showcase
-                their projects. But beyond its aesthetic purpose, it can also be
-                a good resource to learn the backbone of modern javascript
-                frameworks.
+                Portfolio websites serve as an important medium for artists to
+                present their works. But beyond its aesthetic purpose, building
+                it from scratch can also be a good resource to understand the
+                core concepts of modern javascript frameworks.
               </p>
               <p>
-                In this 4-week class, we will explore how to build a portfolio
-                website from the ground up using Vue.js. The class aims to
-                create a static web application consisting of basic pages (Home,
-                About, Project) and elements (Header, Footer, Content,
-                Navigation, CTA). Students will design responsive UI, create
-                modular components, and implement advanced styles and javascript
-                libraries to showcase their artworks with unrestrained
-                creativity on a browser.
+                In this 1 point 3-week course, we will explore the full
+                lifecycle of static portfolio site development from initial
+                setup through final deployment using Vue.js. Students are
+                expected to design responsive UIs and layouts, build reusable
+                components, and utilize advanced methods.
               </p>
               <p>
-                This class is programming-focused and designed for students
-                seeking to create a custom portfolio site or to learn about
-                modern javascript framework. Basic front-end tech stack
-                (html/css, javascript, npm) is required. Students must take ICM
-                and at least one other javascript programming class. Experience
-                with responsive web design is helpful.
+                This course is programming-heavy and suitable for students
+                seeking to create a custom website or learn the basics of Vue.js
+                (with Nuxt.js). Students must take ICM and at least one other
+                javascript programming course. The course assumes that students
+                have a solid understanding of HTML, CSS, JavaScript, npm, Git.
               </p>
             </div>
           </div>
@@ -72,29 +68,102 @@
           <div class="row schedule">
             <div class="col-12">
               <h2>Schedule</h2>
-              <h3>Week 1 – Intro / Vue Basics</h3>
+              <h3>Week 1 – Intro / Vue Basics / Directives</h3>
               <ul>
                 <li>
                   Intro
                   <ul>
-                    <li>Introducing each other</li>
                     <li>
-                      Creative portfolio website examples Git, npm, package.json
+                      <a
+                        href="https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#:~:text=List%20of%20creative%20portfolio%20sites"
+                        target="_blank"
+                        >Some creative portfolio websites</a
+                      >
                     </li>
-                    <li>Why Vue? (or React)</li>
+                    <li>
+                      <a
+                        href="https://www.atlassian.com/git/tutorials/why-git"
+                        target="_blank"
+                        >Git</a
+                      >,
+                      <a href="https://www.npmjs.com/package/p5" target="_blank"
+                        >npm</a
+                      >,
+                      <a
+                        href="https://nodejs.dev/learn/the-package-json-guide"
+                        target="_blank"
+                        >package.json</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks"
+                        target="_blank"
+                        >javascript frameworks</a
+                      >
+                    </li>
                   </ul>
                 </li>
                 <li>
                   Vue basics
                   <ul>
                     <li>
-                      Nuxt code structure Life cycle hooks (created, mounted,
-                      destroy)
+                      <a href="https://youtu.be/nhBVL41-_Cw" target="_blank"
+                        >Vue explained in 100s</a
+                      >
                     </li>
-                    <li>Data, props, computed value Component concept</li>
                     <li>
-                      Making button component Nuxt link-to Default.vue for
-                      global elements
+                      <a
+                        href="https://nuxtjs.org/docs/get-started/directory-structure/"
+                        target="_blank"
+                        >>Nuxt code structure</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/api/options-state.html#data"
+                        target="_blank"
+                        >Data</a
+                      >,
+                      <a
+                        href="https://vuejs.org/api/options-state.html#props"
+                        target="_blank"
+                        >props</a
+                      >,
+                      <a
+                        href="https://vuejs.org/api/options-state.html#computed"
+                        target="_blank"
+                        >computed value</a
+                      >,
+                      <a
+                        href="https://vuejs.org/api/options-state.html#methods"
+                        target="_blank"
+                        >methods</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-diagram"
+                        target="_blank"
+                        >Lifecycle hooks</a
+                      >
+                      (created, mounted, unmounted)
+                    </li>
+                    <li>
+                      Creating
+                      <a
+                        href="https://nuxtjs.org/docs/directory-structure/components"
+                        target="_blank"
+                        >components</a
+                      >
+                    </li>
+                    <li>
+                      Navigation with
+                      <a
+                        href="https://nuxtjs.org/docs/features/nuxt-components/#the-nuxtlink-component"
+                        target="_blank"
+                        >NuxtLink</a
+                      >
                     </li>
                   </ul>
                 </li>
@@ -103,10 +172,8 @@
                   <ul>
                     <li>v-if</li>
                     <li>v-for: loop through data</li>
-                    <li>v-bind: rendering image</li>
-                    <li>
-                      v-on: user events (click, mouse, mouseenter, mouseleave)
-                    </li>
+                    <li>v-bind (:) - dynamic data (src, class, id, key)</li>
+                    <li>v-on (@) - user events (click, mouseover, keypress)</li>
                   </ul>
                 </li>
               </ul>
