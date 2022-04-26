@@ -8,8 +8,8 @@ This is the repository for ITP class Website of You.
 - [Syllabus](https://jooohyunpark.github.io/itp-wou-fall-2022/)
 - Class dates
   - 10/01/2022, Saturday, 12:20pm-3:20pm
-  - 10/08/2022, Thursday, 12:20pm-3:20pm
-  - 10/15/2022, Thursday, 12:20pm-3:20pm
+  - 10/08/2022, Saturday, 12:20pm-3:20pm
+  - 10/15/2022, Saturday, 12:20pm-3:20pm
 
 ## Course Ojbectives
 
