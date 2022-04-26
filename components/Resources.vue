@@ -34,6 +34,16 @@
         </a>
       </li>
       <li>
+        <a href="https://web.dev/learn/css/" target="_blank">Learn CSS</a>
+      </li>
+      <li>
+        <a
+          href="https://github.com/jooohyunpark/itp-wou-fall-2022#:~:text=A%20Complete%20Guide%20to%20Flexbox"
+          target="_blank"
+          >A Complete Guide to Flexbox</a
+        >
+      </li>
+      <li>
         <a href="https://vuetifyjs.com/en/" target="_blank">Vuetify</a>
         – Vue UI Library built upon Material Design framework
       </li>
@@ -44,9 +54,6 @@
       <li>
         <a href="https://www.netlify.com/" target="_blank">Netlify</a>
         – Serverless platform that enables git-based automated deployments
-      </li>
-      <li>
-        <a href="https://web.dev/learn/css/" target="_blank">Learn CSS</a>
       </li>
     </ul>
   </div>
