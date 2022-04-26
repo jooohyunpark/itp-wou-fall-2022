@@ -170,10 +170,37 @@
                 <li>
                   Directives
                   <ul>
-                    <li>v-if</li>
-                    <li>v-for: loop through data</li>
-                    <li>v-bind (:) - dynamic data (src, class, id, key)</li>
-                    <li>v-on (@) - user events (click, mouseover, keypress)</li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/api/built-in-directives.html#v-if"
+                        target="_blank"
+                        >v-if</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/api/built-in-directives.html#v-for"
+                        target="_blank"
+                        >v-for</a
+                      >
+                      - loop through data
+                    </li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/api/built-in-directives.html#v-bind"
+                        target="_blank"
+                        >v-bind (:)</a
+                      >
+                      - dynamic data (src, class, id, key)
+                    </li>
+                    <li>
+                      <a
+                        href="https://vuejs.org/api/built-in-directives.html#v-on"
+                        target="_blank"
+                        >v-on (@)</a
+                      >
+                      - user events (click, mouseover, keypress)
+                    </li>
                   </ul>
                 </li>
               </ul>
