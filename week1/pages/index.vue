@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "IndexPage",
+  name: "IndexPage", // https://vuejs.org/api/options-misc.html#name
 };
 </script>
 
