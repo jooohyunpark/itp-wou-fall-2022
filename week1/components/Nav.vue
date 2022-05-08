@@ -3,6 +3,7 @@
     <h1>week 1</h1>
     <NuxtLink to="/">Home</NuxtLink>
     <NuxtLink to="/life-cycle">Life cycle</NuxtLink>
+    <NuxtLink to="/directives">Directives</NuxtLink>
   </nav>
 </template>
 <script>
