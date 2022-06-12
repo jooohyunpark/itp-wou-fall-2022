@@ -102,10 +102,19 @@
         <ul>
           <li>
             <a
+              href="https://vuejs.org/api/built-in-directives.html#v-bind"
+              target="_blank"
+              >v-bind (:)</a
+            >
+            - dynamic data (src, class, id, key)
+          </li>
+          <li>
+            <a
               href="https://vuejs.org/api/built-in-directives.html#v-if"
               target="_blank"
               >v-if</a
             >
+            - render elements conditionally
           </li>
           <li>
             <a
@@ -114,14 +123,6 @@
               >v-for</a
             >
             - loop through data
-          </li>
-          <li>
-            <a
-              href="https://vuejs.org/api/built-in-directives.html#v-bind"
-              target="_blank"
-              >v-bind (:)</a
-            >
-            - dynamic data (src, class, id, key)
           </li>
           <li>
             <a
