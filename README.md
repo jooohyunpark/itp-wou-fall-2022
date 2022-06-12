@@ -67,9 +67,9 @@ Please install these on your machine before the first class.
   - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
 
 - Directives
-  - [v-if](https://vuejs.org/api/built-in-directives.html#v-if)
-  - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
+  - [v-if](https://vuejs.org/api/built-in-directives.html#v-if) - render element conditionally
+  - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
 
 ## Week 2 - Responsive Layout / Styles / Libraries
