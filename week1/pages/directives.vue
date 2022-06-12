@@ -17,7 +17,7 @@
       Binding image src from
       <a href="https://picsum.photos/">Lorem Picsum</a> <br />
     </p>
-    <img :src="src" alt="Some random Lorem Picsum image" />
+    <img :src="loremPicsumSrc" alt="Some random Lorem Picsum image" />
 
     <!-- v-if -->
     <h2>v-if</h2>
@@ -49,11 +49,11 @@
     <button @click="randomizeId">Randomize id</button>
 
     <p>
-      Using click event to get random picsum photos. <br />
+      Using click event to get random images. <br />
       {{ src }}
     </p>
-    <img :src="src" alt="Some random Lorem Picsum image" />
-    <button @click="getRandomPicsumImage">Get random Picsum Image</button>
+    <img :src="src" alt="Some random image" :width="300" />
+    <button @click="getRandomImage">Get random Image</button>
 
     <p>
       We can also toggle show state.<br />
@@ -92,7 +92,8 @@ export default {
         lastName: "Park",
         class: "Website of You",
       },
-      src: "https://picsum.photos/300/200",
+      loremPicsumSrc: "https://picsum.photos/300/200",
+      src: require("../assets/img/img-1.jpg"),
       darkMode: true,
       isMouseEnter: false,
       mousePos: {
@@ -112,11 +113,11 @@ export default {
     randomizeId() {
       this.randomId = Math.random();
     },
-    getRandomPicsumImage() {
+    getRandomImage() {
       function getRandomInt(max) {
         return Math.floor(Math.random() * max) + 1;
       }
-      this.src = `https://picsum.photos/id/${getRandomInt(100)}/300/200`;
+      this.src = require(`../assets/img/img-${getRandomInt(9)}.jpg`);
     },
     onMouseEnter(e) {
       this.isMouseEnter = true;
