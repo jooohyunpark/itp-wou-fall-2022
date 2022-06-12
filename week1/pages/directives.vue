@@ -25,7 +25,6 @@
     <div class="box" v-if="true"></div>
     <p>false, so won't render</p>
     <div class="box" v-if="false"></div>
-    <!-- <button @click="toggleShowBox">toggle show_box</button> -->
 
     <!-- v-for -->
     <h2>v-for</h2>
