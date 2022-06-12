@@ -68,7 +68,7 @@ Please install these on your machine before the first class.
 
 - Directives
   - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
-  - [v-if](https://vuejs.org/api/built-in-directives.html#v-if) - render element conditionally
+  - [v-if](https://vuejs.org/api/built-in-directives.html#v-if) - render elements conditionally
   - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
 
