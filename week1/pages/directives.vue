@@ -34,6 +34,16 @@
     <img :src="src" :alt="alt" />
 
     <!-- v-on -->
+    <h2>v-on</h2>
+    <p>Listening to mouse event</p>
+    <div
+      :class="`mouse-over-box ${isMouseOver && 'mouse-over'}`"
+      @mouseover="onMouseOver"
+      @mouseout="onMouseOut"
+    >
+      Hover me!<br />
+      {{ isMouseOver ? "Mouse is over" : "" }}
+    </div>
   </div>
 </template>
 
@@ -53,6 +63,7 @@ export default {
       src: "https://picsum.photos/300/200",
       classDarkState: true,
       randomId: Math.random(),
+      isMouseOver: false,
     };
   },
   methods: {
@@ -64,6 +75,12 @@ export default {
     },
     randomizeId() {
       this.randomId = Math.random();
+    },
+    onMouseOver() {
+      this.isMouseOver = true;
+    },
+    onMouseOut() {
+      this.isMouseOver = false;
     },
   },
 };
@@ -88,5 +105,17 @@ export default {
 .v-bind-class-test.dark {
   background: black;
   color: white;
+}
+
+.mouse-over-box {
+  background: green;
+  color: white;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+}
+
+.mouse-over-box.mouse-over {
+  background: blue;
 }
 </style>
