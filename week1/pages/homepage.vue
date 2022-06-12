@@ -21,6 +21,8 @@ export default {
         { title: "Title 5", src: "img-5.jpg" },
         { title: "Title 6", src: "img-6.jpg" },
         { title: "Title 7", src: "img-7.jpg" },
+        { title: "Title 8", src: "img-8.jpg" },
+        { title: "Title 9", src: "img-9.jpg" },
       ],
     };
   },
