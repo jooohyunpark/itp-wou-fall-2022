@@ -30,8 +30,16 @@
     <button @click="toggleMode">Toggle mode</button>
     <button @click="randomizeId">Randomize id</button>
 
-    <p>Binding image src/alt dynamically. Will pull random images on load.</p>
-    <img :src="src" :alt="alt" />
+    <p>Pulling image locally.</p>
+    <img src="../assets/img/itp.jpg" alt="Old itp floor" :width="300" />
+
+    <p>
+      Binding image src from
+      <a href="https://picsum.photos/">Lorem Picsum</a> <br />
+    </p>
+    <img :src="src" alt="Some random Lorem Picsum image" />
+    <button @click="getRandomPicsumImage">Get random Picsum Image</button>
+    <p>{{ src }}</p>
 
     <!-- v-on -->
     <h2>v-on</h2>
@@ -60,7 +68,6 @@ export default {
         lastName: "Park",
         class: "Website of You",
       },
-      alt: "alt text",
       src: "https://picsum.photos/300/200",
       classDarkState: true,
       randomId: Math.random(),
@@ -76,6 +83,12 @@ export default {
     },
     randomizeId() {
       this.randomId = Math.random();
+    },
+    getRandomPicsumImage() {
+      function getRandomInt(max) {
+        return Math.floor(Math.random() * max) + 1;
+      }
+      this.src = `https://picsum.photos/id/${getRandomInt(100)}/300/200`;
     },
     onMouseOver() {
       this.isMouseOver = true;
