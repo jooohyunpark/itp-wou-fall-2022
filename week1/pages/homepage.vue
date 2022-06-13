@@ -1,8 +1,15 @@
 <template>
   <div class="homepage">
     <div class="works">
-      <div class="work" v-for="(work, i) of works" :key="i">
-        <img :src="require(`/assets/img/${work.src}`)" :alt="work.title" />
+      <div
+        class="work"
+        v-for="(work, i) of works"
+        :key="i"
+        @mouseover="onMouseOver"
+        @mouseleave="onMouseLeave"
+        @click="() => onClick(work.title)"
+      >
+        <img :src="require(`../assets/img/${work.src}`)" :alt="work.title" />
         <h2>{{ work.title }}</h2>
       </div>
     </div>
@@ -26,6 +33,17 @@ export default {
       ],
     };
   },
+  methods: {
+    onMouseOver(e) {
+      e.currentTarget.classList.add("hovered");
+    },
+    onMouseLeave(e) {
+      e.currentTarget.classList.remove("hovered");
+    },
+    onClick(work) {
+      console.log("clicked: ", work);
+    },
+  },
 };
 </script>
 
@@ -45,9 +63,30 @@ export default {
   width: 33.33%;
   padding: 20px;
   box-sizing: border-box;
+  position: relative;
+  cursor: pointer;
 }
 
 .work img {
   width: 100%;
+  transition: filter 0.2s linear;
+}
+
+.work h2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  color: white;
+  opacity: 0;
+  transition: opacity 0.2s linear;
+}
+
+.work.hovered img {
+  filter: brightness(0.2);
+}
+.work.hovered h2 {
+  opacity: 1;
 }
 </style>
