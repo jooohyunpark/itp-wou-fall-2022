@@ -50,7 +50,7 @@ export default {
 <style scoped>
 .homepage {
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 100px auto;
 }
 
 .works {
