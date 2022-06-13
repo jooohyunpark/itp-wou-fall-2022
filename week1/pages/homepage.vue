@@ -5,7 +5,7 @@
         class="work"
         v-for="(work, i) of works"
         :key="i"
-        @mouseover="onMouseOver"
+        @mouseenter="onMouseEnter"
         @mouseleave="onMouseLeave"
         @click="() => onClick(work.title)"
       >
@@ -34,7 +34,7 @@ export default {
     };
   },
   methods: {
-    onMouseOver(e) {
+    onMouseEnter(e) {
       e.currentTarget.classList.add("hovered");
     },
     onMouseLeave(e) {

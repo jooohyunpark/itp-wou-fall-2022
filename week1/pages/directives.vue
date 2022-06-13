@@ -66,7 +66,7 @@
     <div
       :class="`mouse-over-box ${isMouseEnter && 'mouse-over'}`"
       @mouseenter="onMouseEnter"
-      @mouseout="onMouseOut"
+      @mouseleave="onMouseLeave"
       @mousemove="onMouseMove"
       @click="onClick"
     >
@@ -119,10 +119,10 @@ export default {
       }
       this.src = require(`../assets/img/img-${getRandomInt(9)}.jpg`);
     },
-    onMouseEnter(e) {
+    onMouseEnter() {
       this.isMouseEnter = true;
     },
-    onMouseOut() {
+    onMouseLeave() {
       this.isMouseEnter = false;
       this.mousePos.x = null;
       this.mousePos.y = null;
