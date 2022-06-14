@@ -15,7 +15,6 @@
 
 <script>
 export default {
-  name: "IndexPage",
   data() {
     return {
       number: 1,
