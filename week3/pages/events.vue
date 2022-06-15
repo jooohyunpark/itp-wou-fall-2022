@@ -23,7 +23,7 @@ export default {
   },
   mounted() {
     this.$nuxt.$on("hello-root", (val) => {
-      this.log.push("event received!!");
+      this.log.unshift("event received!!");
     });
   },
   methods: {

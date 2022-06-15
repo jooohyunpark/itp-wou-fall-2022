@@ -17,7 +17,7 @@ export default {
   },
   mounted() {
     this.$nuxt.$on("hello-level2", (val) => {
-      this.log.push(`event received with value: ${val}`);
+      this.log.unshift(`event received with value: ${val}`);
     });
   },
 };

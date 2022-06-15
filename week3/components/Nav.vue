@@ -11,7 +11,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 nav {
   padding: 24px 0;
   text-align: center;
