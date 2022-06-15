@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="events">
     <p>Emit event and listen anywhere!</p>
     <button @click="emitHelloLevel1">hello Level 1</button> <br />
     <button @click="emitHelloLevel2">hello Level 2</button> payload:
@@ -37,7 +37,11 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-button {
-  margin: 10px;
+.events {
+  margin: 50px;
+
+  button {
+    margin: 10px;
+  }
 }
 </style>
