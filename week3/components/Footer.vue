@@ -11,6 +11,7 @@
         id="flexSwitchCheckDefault"
         v-model="darkMode"
         @change="toggleDarkMode"
+        :disabled="$route.path !== '/mode'"
       />
     </div>
   </footer>
@@ -33,10 +34,12 @@ export default {
 
 <style lang="scss" scoped>
 footer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 100px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  margin-top: 100px;
 
   .form-check-input {
     cursor: pointer;

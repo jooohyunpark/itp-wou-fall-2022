@@ -2,6 +2,7 @@
   <div :class="`app ${mode}`">
     <Nav />
     <Nuxt />
+    <Footer />
   </div>
 </template>
 <script>
