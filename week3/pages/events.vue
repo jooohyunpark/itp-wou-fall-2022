@@ -34,6 +34,9 @@ export default {
       $nuxt.$emit("hello-level2", this.number);
     },
   },
+  beforeDestroy() {
+    this.$nuxt.$off("hello-root");
+  },
 };
 </script>
 <style lang="scss" scoped>

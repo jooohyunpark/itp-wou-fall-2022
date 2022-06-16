@@ -35,6 +35,8 @@
       programmers, fabricators and creatives at all stages of their careers and
       practices.
     </p>
+
+    <Footer />
   </div>
 </template>
 

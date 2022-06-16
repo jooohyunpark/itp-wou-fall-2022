@@ -20,6 +20,9 @@ export default {
       this.log.unshift(`event received with value: ${val}`);
     });
   },
+  beforeDestroy() {
+    this.$nuxt.$off("hello-level2");
+  },
 };
 </script>
 

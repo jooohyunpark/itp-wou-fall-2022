@@ -19,6 +19,9 @@ export default {
       this.log.unshift("event received!");
     });
   },
+  beforeDestroy() {
+    this.$nuxt.$off("hello-level1");
+  },
 };
 </script>
 

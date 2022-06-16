@@ -22,7 +22,6 @@ export default {
       darkMode: false,
     };
   },
-
   methods: {
     toggleDarkMode() {
       this.$nuxt.$emit("toggle-mode", this.darkMode);
@@ -33,11 +32,18 @@ export default {
 
 <style lang="scss" scoped>
 footer {
-  max-width: 800px;
-  margin: 100px auto;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  margin-top: 100px;
+
+  .form-check-input {
+    cursor: pointer;
+  }
+
+  label {
+    pointer-events: none;
+  }
 
   i {
     width: 1em;
