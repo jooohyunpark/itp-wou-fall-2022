@@ -1,19 +1,11 @@
-// Custom.scss
-// Option B: Include parts of Bootstrap
+@import "./bootstrap";
 
-// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
-@import "../node_modules/bootstrap/scss/functions";
+* {
+  box-sizing: border-box;
+}
 
-// 2. Include any default variable overrides here
-
-// 3. Include remainder of required Bootstrap stylesheets
-@import "../node_modules/bootstrap/scss/variables";
-@import "../node_modules/bootstrap/scss/mixins";
-
-// 4. Include any optional Bootstrap components as you like
-// https://github.com/twbs/bootstrap/tree/main/scss
-
-@import "../node_modules/bootstrap/scss/forms";
-
-// 5. Add additional custom code here
-@import "bootstrap-icons/font/bootstrap-icons.css";
+body,
+html {
+  margin: 0;
+  padding: 0;
+}

@@ -2,7 +2,8 @@
   <footer>
     <div class="form-check form-switch">
       <label class="" for="flexSwitchCheckDefault">
-        <i :class="`bi ${darkMode ? 'bi-moon-fill' : 'bi-moon'}`"></i>
+        <!-- https://icons.getbootstrap.com/ -->
+        <i :class="`bi ${darkMode ? 'bi-moon-fill' : 'bi-sun'}`"></i>
       </label>
       <input
         class="form-check-input"

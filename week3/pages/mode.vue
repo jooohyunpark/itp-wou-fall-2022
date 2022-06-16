@@ -51,7 +51,8 @@ export default {
 </script>
 <style lang="scss" scoped>
 .mode {
-  margin: 100px auto;
+  padding: 100px;
+  margin: 0 auto;
   max-width: 800px;
   line-height: 1.5em;
 
