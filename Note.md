@@ -53,10 +53,14 @@ mounted() {
    this.$nuxt.$on('my-custom-event', () => {
     // Your call back function
    })
-   this.$nuxt.$on('my-custom-event-with-value', (value) => {
-    // Read the passed value
-     console.log(value)
+   this.$nuxt.$on('my-custom-event-with-payload', (payload) => {
+    // Do something with a payload
    })
+},
+// Make sure to clear the event listener before unmounting the component!
+beforeDestroy(){ // -> beforeUnmount() for Vue 3
+  this.$nuxt.$off('my-custom-event)
+  this.$nuxt.$off('my-custom-event-with-payload)
 }
 ```
 
