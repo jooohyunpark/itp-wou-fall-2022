@@ -96,7 +96,6 @@ Please install these on your machine before the first class.
 
   - [Emit events](https://vuejs.org/guide/components/events.html) to parent
   - [Event bus in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#event-bus)
-  - ([vuex](https://vuex.vuejs.org/)/[store](https://nuxtjs.org/docs/directory-structure/store/))
 
 - Deploy
 
