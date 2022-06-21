@@ -20,13 +20,6 @@
               >Event bus in Nuxt</a
             >
           </li>
-          <li>
-            (<a href="https://vuex.vuejs.org/" target="_blank">vuex</a>/<a
-              href="https://nuxtjs.org/docs/directory-structure/store/"
-              target="_blank"
-              >store</a
-            >)
-          </li>
         </ul>
       </li>
       <li>
