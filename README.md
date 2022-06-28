@@ -82,7 +82,6 @@ Please install these on your machine before the first class.
 - Styles
 
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
-  - [Transition](https://nuxtjs.org/docs/features/transitions) between pages
   - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
 
 - Libraries
@@ -121,6 +120,7 @@ Please install these on your machine before the first class.
 - [Nuxt tutorials](https://nuxtjs.org/tutorials)
 - [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals?friend=nuxt&utm_source=Nuxtjs.org&utm_medium=Link&utm_content=Courses&utm_campaign=nuxtjs-fundamentals)
 - [Learn CSS](https://web.dev/learn/css/)
+- [Material Design responsive layout grid](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
 - [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
