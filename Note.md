@@ -35,6 +35,9 @@ Once installed, you can use it by choosing from language.
 </style>
 ```
 
+### Responsive grid layout
+[Figma link](https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/Grid-system?node-id=0%3A1)
+
 ## week 3
 
 ### Event bus
