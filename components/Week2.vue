@@ -37,14 +37,6 @@
           </li>
           <li>
             <a
-              href="https://nuxtjs.org/docs/features/transitions"
-              target="_blank"
-              >Transition</a
-            >
-            between pages
-          </li>
-          <li>
-            <a
               href="https://getbootstrap.com/docs/5.1/components/carousel/"
               target="_blank"
               >Bootstrap UIs</a
