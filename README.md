@@ -15,7 +15,7 @@ This is the repository for ITP class Website of You.
 
 At the completion of this course, the students will:
 
-1. Be comfortable designing visuals/UX for static web application
+1. Be comfortable designing UI/UX for static web application
 2. Learn modular programming patterns in javascript using Vue.js
 3. Build and deploy a custom portfolio website (or equivalent)
 
