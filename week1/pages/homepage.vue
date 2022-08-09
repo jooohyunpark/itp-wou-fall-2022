@@ -9,6 +9,7 @@
         @mouseleave="onMouseLeave"
         @click="() => onClick(work.title)"
       >
+        <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
         <img :src="require(`../assets/img/${work.src}`)" :alt="work.title" />
         <h2>{{ work.title }}</h2>
       </div>
