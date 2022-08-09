@@ -16,7 +16,7 @@ This section serves as a note to provide more details about class material.
 
 ### Dyanmic image path in Vue
 
-The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewriting it. In your JS, use require('~assets/' + src) instead. This allows Webpack to return the correct static path.
+The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewriting it. Use combination of ```require('~assets/' + src)``` instead. This allows Webpack to return the correct static path.
 ```js
 // 404 error (x)
  <img :src="src" />
