@@ -13,6 +13,19 @@ This section serves as a note to provide more details about class material.
 - http://www.robinpayot.com/#eaktr
 - https://mark-appleby.com/
 
+
+### Dyanmic image path in Vue
+
+The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewriting it. In your JS, use require('~assets/' + src) instead. This allows Webpack to return the correct static path.
+```js
+// 404 error (x)
+ <img :src="src" />
+ 
+// Good (o)
+ <img :src="require(`../assets/img/${src}`)"  />
+```
+
+
 ## week 2
 
 ### Using Scss in Nuxt
