@@ -1,5 +1,7 @@
 <template>
-  <div>three</div>
+  <div>
+    <p>:)</p>
+  </div>
 </template>
 
 <script>

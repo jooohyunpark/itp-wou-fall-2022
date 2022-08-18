@@ -2,7 +2,9 @@
   <nav>
     <h1>week 3</h1>
     <NuxtLink to="/">Home</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/events">Events</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/mode">Mode</NuxtLink>
   </nav>
 </template>

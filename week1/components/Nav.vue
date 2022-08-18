@@ -2,8 +2,11 @@
   <nav>
     <h1>week 1</h1>
     <NuxtLink to="/">Home</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/life-cycle">Life cycle</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/directives">Directives</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/homepage">Home page example</NuxtLink>
   </nav>
 </template>
