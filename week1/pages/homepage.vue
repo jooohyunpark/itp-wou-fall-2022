@@ -5,8 +5,6 @@
         class="work"
         v-for="(work, i) of works"
         :key="i"
-        @mouseenter="onMouseEnter"
-        @mouseleave="onMouseLeave"
         @click="() => onClick(work.title)"
       >
         <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
@@ -35,12 +33,6 @@ export default {
     };
   },
   methods: {
-    onMouseEnter(e) {
-      e.currentTarget.classList.add("hovered");
-    },
-    onMouseLeave(e) {
-      e.currentTarget.classList.remove("hovered");
-    },
     onClick(work) {
       console.log("clicked: ", work);
     },
@@ -84,10 +76,10 @@ export default {
   transition: opacity 0.2s linear;
 }
 
-.work.hovered img {
+.work:hover img {
   filter: brightness(0.2);
 }
-.work.hovered h2 {
+.work:hover h2 {
   opacity: 1;
 }
 </style>
