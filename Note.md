@@ -8,6 +8,8 @@ This section serves as a note to provide more details about class material.
 
 - https://yotammann.info/
 - https://www.julianweidenthaler.com/
+- http://yiwenl.github.io/Sketches/
+- https://www.newrafael.com/
 - https://clementgrellier.fr/
 - https://kimalbrecht.com/vis/#all
 - https://www.nikolastype.com/
