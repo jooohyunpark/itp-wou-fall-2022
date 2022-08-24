@@ -79,6 +79,7 @@ export default {
 .work:hover img {
   filter: brightness(0.2);
 }
+
 .work:hover h2 {
   opacity: 1;
 }
