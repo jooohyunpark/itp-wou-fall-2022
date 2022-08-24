@@ -4,7 +4,7 @@ This section serves as a note to provide more details about class material.
 
 ## week 1
 
-### List of creative portfolio sites
+### Some portfolio sites
 
 - https://yotammann.info/
 - https://www.julianweidenthaler.com/
