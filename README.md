@@ -25,7 +25,7 @@ At the completion of this course, the students will:
 
 ## Get Started
 
-Clone this repo. It has weekly codebase in each folder.
+Clone this repo. It has weekly code examples in each folder.
 
 ```bash
 $ git clone https://github.com/jooohyunpark/itp-wou-fall-2022.git
