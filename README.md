@@ -53,7 +53,7 @@ Please install these on your machine before the first class.
 
 - Intro
 
-  - [Some creative portfolio websites](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#list-of-creative-portfolio-sites)
+  - [Portfolio website examples](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#list-of-creative-portfolio-sites)
   - [Git](https://www.atlassian.com/git/tutorials/why-git), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
