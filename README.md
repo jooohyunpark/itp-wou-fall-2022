@@ -76,7 +76,7 @@ Please install these on your machine before the first class.
   - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
 
-## Week 2 - Responsive Layout / Styles / Libraries
+## Week 2 - Advanced styles / Responsive Layout / Libraries
 
 - Advanced styles 
   - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
@@ -86,7 +86,7 @@ Please install these on your machine before the first class.
   - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.1/layout/grid/)
   - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
 
-- External Libraries
+- Libraries
 
   - Create global function
   - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
