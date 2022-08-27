@@ -78,14 +78,12 @@ Please install these on your machine before the first class.
 
 ## Week 2 - Responsive Layout / Styles / Libraries
 
-- Responsive Layout
-
+- Advanced styles 
   - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
-  - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.1/layout/grid/)
-
-- Styles
-
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
+
+- Responsive Layout
+  - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.1/layout/grid/)
   - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
 
 - Libraries
