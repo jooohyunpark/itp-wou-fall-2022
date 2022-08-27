@@ -86,7 +86,7 @@ Please install these on your machine before the first class.
   - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.1/layout/grid/)
   - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
 
-- Libraries
+- External Libraries
 
   - Create global function
   - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
