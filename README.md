@@ -10,6 +10,10 @@ This is the repository for ITP class Website of You.
   - 10/01/2022, Saturday, 12:20pm-3:20pm
   - 10/08/2022, Saturday, 12:20pm-3:20pm
   - 10/15/2022, Saturday, 12:20pm-3:20pm
+- [Office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ38e_td9fOuExnsHGYNL-FhkFVHDDICVNefmc2V0rmHLALBSDYYQ_irIQHs3RCnAxpkBLUo0OcO)
+  - 10/01/2022, Saturday, 3:30pm-4:30pm
+  - 10/08/2022, Saturday, 3:30pm-4:30pm
+  - 10/15/2022, Saturday, 3:30pm-4:30pm
 
 ## Course Ojbectives
 
