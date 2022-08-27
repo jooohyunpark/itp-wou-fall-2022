@@ -80,19 +80,19 @@
             (created, mounted, unmounted)
           </li>
           <li>
-            Creating
-            <a
-              href="https://nuxtjs.org/docs/directory-structure/components"
-              target="_blank"
-              >components</a
-            >
-          </li>
-          <li>
             Navigation with
             <a
               href="https://nuxtjs.org/docs/features/nuxt-components/#the-nuxtlink-component"
               target="_blank"
               >NuxtLink</a
+            >
+          </li>
+          <li>
+            Creating
+            <a
+              href="https://nuxtjs.org/docs/directory-structure/components"
+              target="_blank"
+              >components</a
             >
           </li>
         </ul>

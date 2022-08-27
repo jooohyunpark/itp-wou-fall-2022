@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h3>Week 2 - Responsive Layout / Styles / Libraries</h3>
+    <h3>Week 2 - Advanced styles / Responsive Layout / Libraries</h3>
     <ul>
       <li>
-        Responsive Layout
+        Advanced styles
         <ul>
           <li>
             <a href="https://sass-lang.com/guide" target="_blank">Scss</a>
@@ -15,24 +15,24 @@
             >
           </li>
           <li>
-            Responsive layout using
-            <a
-              href="https://getbootstrap.com/docs/5.1/layout/grid/"
-              target="_blank"
-              >bootstrap grid system</a
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        Styles
-        <ul>
-          <li>
             Configure
             <a
               href="https://nuxtjs.org/docs/configuration-glossary/configuration-css/"
               target="_blank"
               >global style</a
+            >
+          </li>
+        </ul>
+      </li>
+      <li>
+        Responsive Layout
+        <ul>
+          <li>
+            Responsive layout using
+            <a
+              href="https://getbootstrap.com/docs/5.1/layout/grid/"
+              target="_blank"
+              >bootstrap grid system</a
             >
           </li>
           <li>
