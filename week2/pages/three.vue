@@ -10,7 +10,7 @@
 </template>
 
 <script>
-const THREE = require("THREE");
+const THREE = require("THREE"); // should be a require (common.js)
 import texture from "../assets/img/disc.png";
 
 export default {
