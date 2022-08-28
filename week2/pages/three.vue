@@ -29,8 +29,6 @@ export default {
 
     this.init();
     this.animate();
-
-    //
   },
   methods: {
     init() {
