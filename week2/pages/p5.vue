@@ -1,13 +1,12 @@
 <template>
   <div class="p5-page">
-    <h2>p5</h2>
+    <h2>p5.js example</h2>
     <div id="p5-canvas" ref="canvas"></div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "IndexPage",
   mounted() {
     const p = [];
     const { width, height } = this.$refs.canvas.getBoundingClientRect();

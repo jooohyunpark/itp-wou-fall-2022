@@ -2,5 +2,8 @@
   "devDependencies": {
     "sass": "^1.54.5",
     "sass-loader": "10"
+  },
+  "dependencies": {
+    "three": "^0.143.0"
   }
 }
