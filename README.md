@@ -83,8 +83,8 @@ Please install these on your machine before the first class.
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
 
 - Responsive Layout
-  - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.1/layout/grid/)
-  - [Bootstrap UIs](https://getbootstrap.com/docs/5.1/components/carousel/)
+  - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.2/layout/grid/)
+  - [Bootstrap UIs](https://getbootstrap.com/docs/5.2/components/dropdowns/)
 
 - Libraries
 
