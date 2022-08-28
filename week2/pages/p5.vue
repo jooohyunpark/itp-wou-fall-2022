@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="title col-12">
-          <h2>Your p5.js</h2>
+          <h2>Your p5.js project</h2>
         </div>
         <div class="description col-12 col-lg-6">
           <p>
