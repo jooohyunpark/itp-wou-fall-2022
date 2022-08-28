@@ -11,7 +11,7 @@
 
 <script>
 const THREE = require("THREE"); // should be a require (common.js)
-import texture from "../assets/img/disc.png";
+import texture from "../assets/img/disc.png"; // https://github.com/mrdoob/three.js/blob/master/examples/textures/sprites/disc.png
 
 export default {
   data() {
