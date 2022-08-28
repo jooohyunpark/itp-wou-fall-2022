@@ -13,9 +13,14 @@
           v-for="(work, i) of works"
           :key="i"
         >
-          <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
-          <img :src="require(`../assets/img/${work.src}`)" :alt="work.title" />
-          <h3>{{ work.title }}</h3>
+          <NuxtLink to="/p5">
+            <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
+            <img
+              :src="require(`../assets/img/${work.src}`)"
+              :alt="work.title"
+            />
+            <h3>{{ work.title }}</h3>
+          </NuxtLink>
         </div>
       </div>
     </div>
