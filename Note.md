@@ -51,8 +51,8 @@ Once installed, you can use it by choosing from language.
 </style>
 ```
 
-### Responsive grid layout
-[Figma link](https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/Grid-system?node-id=0%3A1)
+### Bootstrap grid overlay
+[Chrome extension](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg?hl=en-US)
 
 ## week 3
 
