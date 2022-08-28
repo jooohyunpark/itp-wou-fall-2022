@@ -90,7 +90,6 @@ export default {
     onWindowResize() {
       this.camera.aspect = window.innerWidth / window.innerHeight;
       this.camera.updateProjectionMatrix();
-
       this.renderer.setSize(window.innerWidth, window.innerHeight);
     },
     onPointerMove(event) {
@@ -105,16 +104,13 @@ export default {
 
     animate() {
       requestAnimationFrame(this.animate);
-
       this.render();
     },
 
     render() {
       this.camera.position.x += (this.mouseX - this.camera.position.x) * 0.01;
       this.camera.position.y += (-this.mouseY - this.camera.position.y) * 0.01;
-
       this.camera.lookAt(this.scene.position);
-
       this.renderer.render(this.scene, this.camera);
     },
   },
