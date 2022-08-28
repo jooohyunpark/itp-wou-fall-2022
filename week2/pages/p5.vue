@@ -1,7 +1,31 @@
 <template>
   <div class="p5-page">
-    <h2>p5.js example</h2>
-    <div id="p5-canvas" ref="canvas"></div>
+    <div class="container">
+      <div class="row">
+        <div class="title col-12">
+          <h2>Your p5.js</h2>
+        </div>
+        <div class="description col-12 col-lg-6">
+          <p>
+            p5.js is a JavaScript library for creative coding, with a focus on
+            making coding accessible and inclusive for artists, designers,
+            educators, beginners, and anyone else! p5.js is free and open-source
+            because we believe software, and the tools to learn it, should be
+            accessible to everyone.
+          </p>
+          <p>
+            Using the metaphor of a sketch, p5.js has a full set of drawing
+            functionality. However, you’re not limited to your drawing canvas.
+            You can think of your whole browser page as your sketch, including
+            HTML5 objects for text, input, video, webcam, and sound.
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div id="p5-canvas" class="col" ref="canvas"></div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -29,6 +53,11 @@ export default {
 
       p5.mouseReleased = () => {
         randomColor = p5.random(360);
+      };
+
+      p5.windowResized = () => {
+        const { width, height } = this.$refs.canvas.getBoundingClientRect();
+        p5.resizeCanvas(width, height);
       };
 
       function recordParticles() {
@@ -120,7 +149,15 @@ export default {
 
 <style scoped lang="scss">
 .p5-page {
-  text-align: center;
+  margin: 80px 0;
+
+  .title {
+    margin-bottom: 20px;
+  }
+
+  .description {
+    margin-bottom: 40px;
+  }
 
   #p5-canvas {
     width: 100%;
