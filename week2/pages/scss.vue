@@ -53,7 +53,7 @@ export default {};
     }
 
     p {
-      color: $color;
+      color: $blue;
     }
   }
 }
