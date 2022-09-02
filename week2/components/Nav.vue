@@ -3,6 +3,8 @@
     <h1>week 2</h1>
     <NuxtLink to="/">Home</NuxtLink>
     <span>/</span>
+    <NuxtLink to="/scss">scss</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/grid-system">Grid system</NuxtLink>
     <span>/</span>
     <NuxtLink to="/bootstrap-ui">Bootstrap UI</NuxtLink>
