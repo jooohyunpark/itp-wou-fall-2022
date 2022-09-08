@@ -6,7 +6,7 @@ This section serves as a note to provide more details about class material.
 
 ### Portfolio site examples
 
-- https://yotammann.info/
+- https://hauyuan.myportfolio.com/
 - https://www.julianweidenthaler.com/
 - http://yiwenl.github.io/Sketches/
 - https://www.newrafael.com/
