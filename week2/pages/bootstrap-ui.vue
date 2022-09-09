@@ -1,9 +1,49 @@
 <template>
-  <div>bootstrap ui</div>
+  <div>
+    <h2>Bootstrap UI</h2>
+
+    <!--  -->
+    <h3>Buttons</h3>
+    <button type="button" class="btn btn-primary" @click="onClick">
+      Primary
+    </button>
+    <button type="button" class="btn btn-secondary">Secondary</button>
+    <button type="button" class="btn btn-success">Success</button>
+    <button type="button" class="btn btn-danger">Danger</button>
+    <button type="button" class="btn btn-warning">Warning</button>
+    <button type="button" class="btn btn-info">Info</button>
+    <button type="button" class="btn btn-light">Light</button>
+    <button type="button" class="btn btn-dark">Dark</button>
+    <button type="button" class="btn btn-link">Link</button>
+
+    <!--  -->
+    <h3>Dropdown</h3>
+    <div class="dropdown">
+      <button
+        class="btn btn-primary dropdown-toggle"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+      >
+        Dropdown button
+      </button>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">Action</a></li>
+        <li><a class="dropdown-item" href="#">Another action</a></li>
+        <li><a class="dropdown-item" href="#">Something else here</a></li>
+      </ul>
+    </div>
+  </div>
 </template>
 
 <script>
-export default {};
+export default {
+  methods: {
+    onClick() {
+      console.log("clicked!");
+    },
+  },
+};
 </script>
 
 <style scoped>
