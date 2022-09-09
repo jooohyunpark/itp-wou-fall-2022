@@ -46,6 +46,7 @@ export default {};
 .scss-page {
   max-width: $spacing * 8;
   margin: 0 auto;
+  color: $black;
 
   .content-1 {
     max-width: $spacing * 4;
