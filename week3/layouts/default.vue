@@ -13,7 +13,7 @@ export default {
     };
   },
   mounted() {
-    this.$nuxt.$on("toggle-mode", (value) => {
+    this.$nuxt.$on("toggle-dark-mode", (value) => {
       this.mode = value ? "dark" : "light";
     });
   },

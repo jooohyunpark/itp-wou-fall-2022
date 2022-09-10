@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <!-- https://getbootstrap.com/docs/5.0/forms/checks-radios/#switches -->
+    <!-- https://getbootstrap.com/docs/5.2/forms/checks-radios/#switches -->
     <div class="form-check form-switch">
       <label class="" for="flexSwitchCheckDefault">
         <!-- https://icons.getbootstrap.com/ -->
@@ -27,7 +27,7 @@ export default {
   },
   methods: {
     toggleDarkMode() {
-      this.$nuxt.$emit("toggle-mode", this.darkMode);
+      this.$nuxt.$emit("toggle-dark-mode", this.darkMode);
     },
   },
 };
