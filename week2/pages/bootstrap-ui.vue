@@ -75,6 +75,42 @@
         <span class="visually-hidden">Loading...</span>
       </div>
     </div>
+
+    <div class="content">
+      <h3>Carousel</h3>
+
+      <div id="carousel" class="carousel slide">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="../assets/img/img-1.jpg" class="d-block w-100" />
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/img/img-2.jpg" class="d-block w-100" />
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/img/img-3.jpg" class="d-block w-100" />
+          </div>
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carousel"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carousel"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -94,6 +130,11 @@ export default {
 
   .content {
     margin-bottom: 100px;
+  }
+
+  #carousel {
+    max-width: 800px;
+    margin: 0 auto;
   }
 }
 </style>
