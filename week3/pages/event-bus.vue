@@ -1,5 +1,7 @@
 <template>
   <div class="events">
+    <h2>Event bus (global events)</h2>
+
     <p>Emit event and listen anywhere!</p>
     <button @click="emitHelloLevel1">hello Level 1</button> <br />
     <button @click="emitHelloLevel2">hello Level 2</button> payload:
