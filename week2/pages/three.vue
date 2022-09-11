@@ -1,11 +1,18 @@
 <template>
   <div class="three-page">
-    <h2>three.js example</h2>
-    <a href="https://threejs.org/examples/?q=point#webgl_points_billboards"
-      >Original code from three.js particle billboards example</a
-    >
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>three.js example</h2>
+          <a
+            href="https://threejs.org/examples/?q=point#webgl_points_billboards"
+            >Original code from three.js particle billboards example</a
+          >
+        </div>
 
-    <div ref="container" class="three-container"></div>
+        <div ref="container" class="three-container"></div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -121,8 +128,6 @@ export default {
 
 <style scoped lang="scss">
 .three-page {
-  text-align: center;
-
   .three-container {
     position: absolute;
     left: 0;
