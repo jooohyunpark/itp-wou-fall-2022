@@ -24,7 +24,7 @@ export default {
 </script>
 <style lang="scss">
 .app {
-  min-height: 100vh;
+  // min-height: 100vh;
 
   &.light {
     color: #000;
