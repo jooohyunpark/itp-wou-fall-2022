@@ -85,3 +85,21 @@ beforeDestroy(){ // -> beforeUnmount() for Vue 3
 ```
 
 :warning: Event bus is easy to use but it has a critical downside–it's hard to manage and keep track of when the project grows. I recommend using it in frugality only for your personal sites or experiments. For production-level app, it is a best practice to use the [vuex](https://vuex.vuejs.org/)/[store](https://nuxtjs.org/docs/directory-structure/store/) so that all components are consuming state from one source of truth.
+
+
+### Githug pages
+If you are creating GitHub Pages for one specific repository, and you don't have any custom domain, the URL of the page will be in this format: http://<username>.github.io/<repository-name>.
+
+If you deployed dist folder without adding router base , when you visit the deployed site you will find that the site is not working due to missing assets. This is because we assume that the website root will be /, but in this case it is /<repository-name>.
+
+To fix the issue we need to add router base configuration in nuxt.config.js:
+
+```js
+// nuxt.config.js
+export default {
+  target: 'static',
+  router: {
+    base: '/<repository-name>/'
+  }
+}
+ ```
