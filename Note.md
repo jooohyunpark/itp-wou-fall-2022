@@ -1,4 +1,4 @@
-# Note
+# Notes
 
 This section serves as a note to provide more details about class material.
 
