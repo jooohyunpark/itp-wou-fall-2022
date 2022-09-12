@@ -46,7 +46,7 @@
             <a
               href="https://nuxtjs.org/docs/get-started/directory-structure/"
               target="_blank"
-              >>Nuxt code structure</a
+              >Nuxt code structure</a
             >
           </li>
           <li>

@@ -36,16 +36,11 @@
             <a
               href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
               target="_blank"
-              >Gitpage</a
+              >Github Pages</a
             >
           </li>
           <li>
-            <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-          </li>
-          <li>
-            SFTP (<a href="https://www.dreamhost.com/" target="_blank"
-              >dreamhost</a
-            >)
+            <a href="https://www.dreamhost.com/" target="_blank">Dreamhost</a>
           </li>
         </ul>
       </li>
