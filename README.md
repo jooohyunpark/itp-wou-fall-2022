@@ -65,10 +65,10 @@ Please install these on your machine before the first class.
 
   - [Vue explained in 100s](https://youtu.be/nhBVL41-_Cw)
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
-  - [Data](https://vuejs.org/api/options-state.html#data), [props](https://vuejs.org/api/options-state.html#props), [computed value](https://vuejs.org/api/options-state.html#computed), [methods](https://vuejs.org/api/options-state.html#methods)
+  - [Data](https://vuejs.org/api/options-state.html#data), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (created, mounted, unmounted)
   - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
-  - Creating [components](https://nuxtjs.org/docs/directory-structure/components)  
+  - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/api/options-state.html#props)
 
 - Directives
   - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
