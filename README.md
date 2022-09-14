@@ -66,7 +66,7 @@ Please install these on your machine before the first class.
   - [Vue explained in 100s](https://youtu.be/nhBVL41-_Cw)
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
   - [Data](https://vuejs.org/api/options-state.html#data), [methods](https://vuejs.org/api/options-state.html#methods)
-  - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (created, mounted, unmounted)
+  - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (mounted, unmounted)
   - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
   - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/api/options-state.html#props)
 
