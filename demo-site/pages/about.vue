@@ -2,12 +2,18 @@
   <div class="about">
     <div class="container">
       <div class="row">
-        <div class="col-12 col-lg-5">
-          <img class="logo" src="../assets/img/about/itp-floor.jpg" alt="itp" />
+        <div class="col-12 col-lg-4">
+          <img
+            class="profile"
+            src="../assets/img/about/itp-floor.jpg"
+            alt="itp"
+          />
         </div>
+      </div>
 
-        <div class="info col-12 col-lg-6 offset-lg-1">
-          <h2>About ITP/IMA</h2>
+      <div class="row">
+        <div class="info col-12 col-lg-6">
+          <h2>ITP/IMA</h2>
 
           <p>
             ITP’s mission is to explore the imaginative use of communications
@@ -41,10 +47,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-lg-5">
-          <img class="logo" src="../assets/img/about/itp.jpg" alt="itp" />
-        </div>
-        <div class="experience col-12 col-lg-6 offset-lg-1">
+        <div class="experience col-12 col-lg-6 offset-lg-6">
           <h2>Experience</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -103,9 +106,9 @@ export default {};
     margin-bottom: 100px;
   }
 
-  .logo {
+  .profile {
     max-width: 100%;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   }
 }
 </style>
