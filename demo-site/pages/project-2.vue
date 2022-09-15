@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="project-info col-12 col-lg-6">
-          <h2>Your project</h2>
+          <h2>Project 2</h2>
 
           <div class="description">
             <p>
@@ -34,39 +34,15 @@
 
       <div class="row">
         <div class="project-image col-12">
-          <img src="../assets/img/img-1.jpg" alt="img-1" />
-          <img src="../assets/img/img-2.jpg" alt="img-2" />
-          <img src="../assets/img/img-3.jpg" alt="img-3" />
+          <img src="../assets/img/project/gen-1.png" alt="gen-1" />
+          <img src="../assets/img/project/gen-2.png" alt="gen-2" />
+          <img src="../assets/img/project/gen-3.png" alt="gen-3" />
         </div>
       </div>
     </div>
   </div>
 </template>
 
-<script>
-export default {};
-</script>
-
 <style scoped lang="scss">
-.project {
-  margin: 80px 0;
-
-  .project-info {
-    margin-bottom: 100px;
-
-    h2 {
-      margin-bottom: 40px;
-    }
-
-    .description {
-      margin-bottom: 40px;
-    }
-  }
-
-  .project-image {
-    img {
-      margin-bottom: 80px;
-    }
-  }
-}
+@import "../styles/project";
 </style>

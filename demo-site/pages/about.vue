@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-5">
-          <img class="logo" src="../assets/img/itp-floor.jpg" alt="itp" />
+          <img class="logo" src="../assets/img/about/itp-floor.jpg" alt="itp" />
         </div>
 
         <div class="info col-12 col-lg-6 offset-lg-1">
@@ -40,12 +40,11 @@
             their careers and practices.
           </p>
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
-        <div class="experience col-12 col-lg-6">
+        <div class="col-12 col-lg-5">
+          <img class="logo" src="../assets/img/about/itp.jpg" alt="itp" />
+        </div>
+        <div class="experience col-12 col-lg-6 offset-lg-1">
           <h2>Experience</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -73,11 +72,7 @@
             pariatur?
           </p>
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
         <div class="contact col-12 col-lg-6">
           <h2>Contact</h2>
           <a href="https://github.com/jooohyunpark/itp-wou-fall-2022">Github</a>
