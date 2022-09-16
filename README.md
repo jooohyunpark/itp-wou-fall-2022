@@ -68,7 +68,7 @@ Please install these on your machine before the first class.
   - [Data](https://vuejs.org/api/options-state.html#data), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (mounted, beforeDestroy)
   - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
-  - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/api/options-state.html#props)
+  - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/guide/components/props.html#props-declaration)
 
 - Directives
   - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
