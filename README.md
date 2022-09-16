@@ -99,7 +99,6 @@ Please install these on your machine before the first class.
     - Home page
     - Project page
     - About page
-    - Header/Footer
 
 - Deploy
 
