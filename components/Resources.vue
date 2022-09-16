@@ -51,16 +51,11 @@
         >
       </li>
       <li>
-        <a href="https://vuetifyjs.com/en/" target="_blank">Vuetify</a>
-        – Vue UI Library built upon Material Design framework
-      </li>
-      <li>
-        <a href="https://vuex.vuejs.org/" target="_blank">Vuex</a> - State
-        management pattern + library for Vue.js applications
-      </li>
-      <li>
-        <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-        – Serverless platform that enables git-based automated deployments
+        <a
+          href="https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg?hl=en-US"
+          target="_blank"
+          >Bootstrap Grid Overlay chrome extension</a
+        >
       </li>
     </ul>
   </div>
