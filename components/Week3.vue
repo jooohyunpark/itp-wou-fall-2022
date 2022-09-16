@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Week 3 - Events / Deploy / Presentations</h3>
+    <h3>Week 3 - Recap / Deploy / Presentations</h3>
     <ul>
       <li>
         Recap
