@@ -61,11 +61,6 @@
               >props</a
             >,
             <a
-              href="https://vuejs.org/api/options-state.html#computed"
-              target="_blank"
-              >computed value</a
-            >,
-            <a
               href="https://vuejs.org/api/options-state.html#methods"
               target="_blank"
               >methods</a
@@ -77,7 +72,7 @@
               target="_blank"
               >Lifecycle hooks</a
             >
-            (created, mounted, unmounted)
+            (mounted, beforeDestroy)
           </li>
           <li>
             Navigation with
@@ -88,11 +83,16 @@
             >
           </li>
           <li>
-            Creating
             <a
               href="https://nuxtjs.org/docs/directory-structure/components"
               target="_blank"
-              >components</a
+              >Components</a
+            >
+            and
+            <a
+              href="https://vuejs.org/guide/components/props.html#props-declaration"
+              target="_blank"
+              >props</a
             >
           </li>
         </ul>
