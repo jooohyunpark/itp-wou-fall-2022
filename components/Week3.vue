@@ -3,22 +3,19 @@
     <h3>Week 3 - Events / Deploy / Presentations</h3>
     <ul>
       <li>
-        Events
+        Recap
         <ul>
           <li>
             <a
-              href="https://vuejs.org/guide/components/events.html"
+              href="https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/demo-site"
               target="_blank"
-              >Emit events</a
+              >Demo site</a
             >
-            to parent
-          </li>
-          <li>
-            <a
-              href="https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#:~:text=week%203-,Event%20bus,-In%20the%20latest"
-              target="_blank"
-              >Event bus in Nuxt</a
-            >
+            <ul>
+              <li>Home page</li>
+              <li>Project page</li>
+              <li>About page</li>
+            </ul>
           </li>
         </ul>
       </li>
