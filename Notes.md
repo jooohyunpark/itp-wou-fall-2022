@@ -98,6 +98,9 @@ To fix the issue we need to add router base configuration in nuxt.config.js:
 // nuxt.config.js
 export default {
   target: 'static',
+  generate: {
+    dir: "docs", // default github page directory
+  },
   router: {
     base: '/<repository-name>/'
   }
