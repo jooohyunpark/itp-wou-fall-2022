@@ -125,9 +125,8 @@ Please install these on your machine before the first class.
 - [Learn CSS](https://web.dev/learn/css/)
 - [Material Design responsive layout grid](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Vuetify](https://vuetifyjs.com/en/) - Material Design Framerwork for Vue.js
-- [Vuex](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
-- [Netlify](https://www.netlify.com/) – Serverless platform that enables git-based automated deployments
+- [Bootstrap Grid Overlay chrome extension](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg?hl=en-US)
+
 
 ## Evaluation
 
