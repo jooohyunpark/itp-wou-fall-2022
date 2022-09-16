@@ -91,7 +91,7 @@ Please install these on your machine before the first class.
   - Create global function
   - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
 
-## Week 3 - Events / Deploy / Presentations
+## Week 3 - Recap / Deploy / Presentations
 
 - Recap (TBD)
 
