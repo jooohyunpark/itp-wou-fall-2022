@@ -5,6 +5,8 @@
     <span>/</span>
     <NuxtLink to="/scss">scss</NuxtLink>
     <span>/</span>
+    <NuxtLink to="/grid-demo">Grid demo</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/grid-system">Grid system</NuxtLink>
     <span>/</span>
     <NuxtLink to="/bootstrap-ui">Bootstrap UI</NuxtLink>
