@@ -53,6 +53,22 @@ Please install these on your machine before the first class.
 - [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
 - Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
 
+## Packages
+The class codebases mainly use below packages. Please make sure you're using the consistent versions.
+
+```js
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "nuxt": "^2.15.8",
+    "vue": "^2.6.14",
+  },
+  "devDependencies": {
+    "sass": "^1.54.5",
+    "sass-loader": "10"
+  }
+```
+
+
 ## Week 1 - Intro / Vue Basics / Directives
 
 - Intro
