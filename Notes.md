@@ -52,7 +52,7 @@ Once installed, you can use it by choosing from language.
 ```
 
 ### Design resources
-- [Responsive grid layout demo][(https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/Responsive-grid-system?node-id=0%3A1](https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/WOU-grid-layout-demo))
+- [Responsive grid layout demo](https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/WOU-grid-layout-demo)
 - [Bootstrap grid overlay (chrome extension)](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg?hl=en-US)
 
 ## week 3
