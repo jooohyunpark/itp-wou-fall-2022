@@ -4,7 +4,8 @@
 
     <Button text="This my button" />
     <Button text="Another button" />
-    <Button text="It's reusable!" />
+    <Button type="outline" text="Type outline" />
+    <Button type="outline" text="It's reusable!" />
   </div>
 </template>
 
