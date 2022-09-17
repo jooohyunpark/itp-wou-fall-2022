@@ -54,7 +54,7 @@ Please install these on your machine before the first class.
 - Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
 
 ## Packages
-The class codebases mainly use below packages. Please make sure you're using the consistent versions.
+The class codebases mainly use below packages. Please make sure you're using the consistent versions. (Especially, do NOT use Vue3/Nuxt3. They're unstable and not production-ready yet.)
 
 ```js
   "dependencies": {
