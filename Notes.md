@@ -29,6 +29,13 @@ The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewri
 ```
 
 
+### Binding Native Events to Components
+There may be times when you want to listen directly to a native event on the root element of a component. In these cases, you can use the .native modifier for v-on:
+https://v2.vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components
+```js
+<Button @click.native="onClick"/>
+```
+
 ## week 2
 
 ### Using Scss in Nuxt
