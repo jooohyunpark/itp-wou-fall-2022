@@ -19,7 +19,7 @@ This section serves as a note to provide more details about class material.
 
 ### Dyanmic image path in Vue
 
-The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewriting it. Use combination of ```require('~assets/' + src)``` instead. This allows Webpack to return the correct static path. ([ref](https://github.com/vuejs-templates/webpack/issues/126#issuecomment-219571070))
+The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewriting it. Use combination of ```require('~assets/' + src)``` instead. This allows Webpack to return the correct static path. ([ref](https://nuxtjs.org/docs/directory-structure/assets/#images)/[issues thread](https://github.com/vuejs-templates/webpack/issues/126#issuecomment-219571070))
 ```js
 // 404 (x)
  <img :src="src" />
@@ -30,8 +30,8 @@ The imagePath is only rendered by Vue at runtime, Webpack has no chance of rewri
 
 
 ### Binding Native Events to Components
-There may be times when you want to listen directly to a native event on the root element of a component. In these cases, you can use the .native modifier for v-on:
-https://v2.vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components
+There may be times when you want to listen directly to a native event on the root element of a component. In these cases, you can use the .native modifier for v-on: ([ref](https://v2.vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components))
+
 ```js
 <Button @click.native="onClick"/>
 ```
