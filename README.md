@@ -14,6 +14,7 @@ This is the repository for Fall 2022 ITP class Website of You.
   - 10/01/2022, Saturday, 3:30pm-4:30pm
   - 10/08/2022, Saturday, 3:30pm-4:30pm
   - 10/15/2022, Saturday, 3:30pm-4:30pm
+- [Zoom](https://nyu.zoom.us/my/itpwou)
 
 ## Course Ojbectives
 
