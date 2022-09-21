@@ -95,7 +95,7 @@ The class codebases mainly use below packages. Please make sure you're using the
 
 ## Week 2 - Intro to Scss / Responsive Layout / Advanced styles
 
-- Intro to Scss 
+- Scss basics
   - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
 
