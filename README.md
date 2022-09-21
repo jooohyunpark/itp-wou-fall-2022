@@ -93,29 +93,29 @@ The class codebases mainly use below packages. Please make sure you're using the
   - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
 
-## Week 2 - Advanced styles / Responsive Layout / Libraries
+## Week 2 - Intro to Scss / Responsive Layout / Advanced styles
 
-- Advanced styles 
+- Intro to Scss 
   - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
 
 - Responsive Layout
   - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.2/layout/grid/)
+
+- Advanced styles
+  - Custom fonts
   - [Bootstrap UIs](https://getbootstrap.com/docs/5.2/components/dropdowns/)
 
-- Libraries
-
-  - Create global function
-  - Use [p5.js](https://p5js.org/)/[three.js](https://threejs.org/) in component
 
 ## Week 3 - Recap / Deploy / Presentations
 
-- Recap (TBD)
+- Recap
 
   - [Demo site](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/demo-site)
     - Home page
     - Project page
     - About page
+
 
 - Deploy
 
