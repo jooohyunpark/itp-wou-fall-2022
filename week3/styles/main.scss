@@ -4,8 +4,16 @@
   box-sizing: border-box;
 }
 
-body,
-html {
+html,
+body {
   margin: 0;
   padding: 0;
+}
+
+a,
+a:active,
+a:link,
+a:visited {
+  text-decoration: none;
+  color: inherit;
 }

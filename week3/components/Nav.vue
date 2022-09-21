@@ -2,29 +2,27 @@
   <nav>
     <div class="container">
       <div class="row">
-        <div class="col">
-          <h1>week 3</h1>
-          <NuxtLink to="/">Home</NuxtLink>
-          <span>/</span>
-          <NuxtLink to="/emit-event">Emit event</NuxtLink>
-          <span>/</span>
-          <NuxtLink to="/event-bus">Event bus</NuxtLink>
-          <span>/</span>
-          <NuxtLink to="/mode">Mode</NuxtLink>
+        <div class="col nav-content">
+          <NuxtLink to="/"><h1>Demo site</h1></NuxtLink>
+          <NuxtLink to="/about">About</NuxtLink>
         </div>
       </div>
     </div>
   </nav>
 </template>
 <script>
-export default {
-  name: "Nav",
-};
+export default {};
 </script>
 
-<style lang="scss" scoped>
-nav {
-  padding: 24px 0;
-  text-align: center;
+<style scoped lang="scss">
+.nav-content {
+  margin: 60px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h1 {
+    font-size: 32px;
+  }
 }
 </style>

@@ -1,23 +1,7 @@
-// https://getbootstrap.com/docs/5.0/customize/sass/#importing
 // Custom.scss
-// Option B: Include parts of Bootstrap
+// Option A: Include all of Bootstrap
 
-// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
-@import "bootstrap/scss/functions";
+// Include any default variable overrides here (though functions won't be available)
+@import "./grid";
 
-// 2. Include any default variable overrides here
-@import "bootstrap/scss/variables";
-
-// 3. Include remainder of required Bootstrap stylesheets
-@import "bootstrap/scss/maps";
-@import "bootstrap/scss/mixins";
-@import "bootstrap/scss/root";
-
-// 4. Include any optional Bootstrap components as you like
-// https://github.com/twbs/bootstrap/tree/main/scss
-@import "bootstrap/scss/containers";
-@import "bootstrap/scss/grid";
-@import "bootstrap/scss/forms";
-
-// 5. Add additional custom code here
-@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "bootstrap/scss/bootstrap";

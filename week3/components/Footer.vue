@@ -1,57 +1,25 @@
 <template>
   <footer>
-    <!-- https://getbootstrap.com/docs/5.2/forms/checks-radios/#switches -->
-    <div class="form-check form-switch">
-      <label class="" for="flexSwitchCheckDefault">
-        <!-- https://icons.getbootstrap.com/ -->
-        <i :class="`bi ${darkMode ? 'bi-moon-fill' : 'bi-sun'}`"></i>
-      </label>
-      <input
-        class="form-check-input"
-        type="checkbox"
-        id="flexSwitchCheckDefault"
-        v-model="darkMode"
-        @change="toggleDarkMode"
-        :disabled="$route.path !== '/mode'"
-      />
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <span>&copy; ITP WOU Fall 2022</span>
+        </div>
+      </div>
     </div>
   </footer>
 </template>
 
 <script>
-export default {
-  data() {
-    return {
-      darkMode: false,
-    };
-  },
-  methods: {
-    toggleDarkMode() {
-      this.$nuxt.$emit("toggle-dark-mode", this.darkMode);
-    },
-  },
-};
+export default {};
 </script>
 
-<style lang="scss" scoped>
+<style scoped lang="scss">
 footer {
-  max-width: 800px;
-  margin: 0 auto;
-  padding-bottom: 100px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+  margin: 60px 0;
 
-  .form-check-input {
-    cursor: pointer;
-  }
-
-  label {
-    pointer-events: none;
-  }
-
-  i {
-    width: 1em;
+  span {
+    font-size: 12px;
   }
 }
 </style>
