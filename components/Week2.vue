@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h3>Week 2 - Advanced styles / Responsive Layout / Libraries</h3>
+    <h3>Week 2 - Intro to Scss / Responsive Layout / Advanced styles</h3>
     <ul>
       <li>
-        Advanced styles
+        Scss basics
         <ul>
           <li>
             <a href="https://sass-lang.com/guide" target="_blank">Scss</a>
@@ -35,6 +35,12 @@
               >bootstrap grid system</a
             >
           </li>
+        </ul>
+      </li>
+      <li>
+        Advanced styles
+        <ul>
+          <li>Custom fonts</li>
           <li>
             <a
               href="https://getbootstrap.com/docs/5.1/components/carousel/"
@@ -42,13 +48,6 @@
               >Bootstrap UIs</a
             >
           </li>
-        </ul>
-      </li>
-      <li>
-        Libraries
-        <ul>
-          <li>Create global function</li>
-          <li>Use p5.js/three.js in component</li>
         </ul>
       </li>
     </ul>
