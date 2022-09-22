@@ -3,7 +3,7 @@
     <h3>Week 2 - Intro to Scss / Responsive Layout / Advanced styles</h3>
     <ul>
       <li>
-        Scss basics
+        Intro to Scss
         <ul>
           <li>
             <a href="https://sass-lang.com/guide" target="_blank">Scss</a>
