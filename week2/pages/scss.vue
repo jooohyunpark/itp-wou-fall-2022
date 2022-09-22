@@ -1,6 +1,7 @@
 <template>
   <div class="scss-page">
     <h2>scss</h2>
+
     <div class="content-1">
       <h3>Content 1</h3>
       <p>

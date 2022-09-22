@@ -9,11 +9,9 @@
     <span>/</span>
     <NuxtLink to="/grid-system">Grid system</NuxtLink>
     <span>/</span>
+    <NuxtLink to="/custom-fonts">Custom fonts</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/bootstrap-ui">Bootstrap UI</NuxtLink>
-    <span>/</span>
-    <NuxtLink to="/p5">p5</NuxtLink>
-    <span>/</span>
-    <NuxtLink to="/three">three</NuxtLink>
   </nav>
 </template>
 <script>

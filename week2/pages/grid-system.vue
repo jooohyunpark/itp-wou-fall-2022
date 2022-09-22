@@ -9,11 +9,11 @@
 
       <div class="row">
         <div
-          class="work col-xs-12 col-md-6 col-xl-4"
+          class="work col-xs-12 col-md-6 col-xxl-4"
           v-for="(work, i) of works"
           :key="i"
         >
-          <NuxtLink to="/p5">
+          <NuxtLink to="/">
             <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
             <img
               :src="require(`../assets/img/${work.src}`)"
