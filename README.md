@@ -49,8 +49,9 @@ $ yarn dev  # npm run dev
 
 Please install these on your machine before the first class.
 
+- [VS Code](https://code.visualstudio.com/) with the [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) extension
 - [Git](https://github.com/git-guides/install-git)
-- [Node.js](https://nodejs.org/en/)
+- [Node](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
 - Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
 
