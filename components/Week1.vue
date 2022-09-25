@@ -35,7 +35,7 @@
         </ul>
       </li>
       <li>
-        Vue basics
+        Vue/Nuxt basics
         <ul>
           <li>
             <a href="https://youtu.be/nhBVL41-_Cw" target="_blank"
@@ -82,19 +82,6 @@
               >NuxtLink</a
             >
           </li>
-          <li>
-            <a
-              href="https://nuxtjs.org/docs/directory-structure/components"
-              target="_blank"
-              >Components</a
-            >
-            and
-            <a
-              href="https://vuejs.org/guide/components/props.html#props-declaration"
-              target="_blank"
-              >props</a
-            >
-          </li>
         </ul>
       </li>
       <li>
@@ -131,6 +118,24 @@
               >v-on (@)</a
             >
             - user events (click, mouseover, keypress)
+          </li>
+        </ul>
+      </li>
+      <li>
+        Components
+        <ul>
+          <li>
+            <a
+              href="https://nuxtjs.org/docs/directory-structure/components"
+              target="_blank"
+              >Components</a
+            >
+            and
+            <a
+              href="https://vuejs.org/guide/components/props.html#props-declaration"
+              target="_blank"
+              >props</a
+            >
           </li>
         </ul>
       </li>
