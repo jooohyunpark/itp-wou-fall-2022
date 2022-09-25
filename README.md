@@ -79,7 +79,7 @@ The class codebases mainly use below packages. Please make sure you're using the
   - [Git](https://www.atlassian.com/git/tutorials/why-git), [Github Desktop](https://desktop.github.com/), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
-- Vue basics
+- Vue/Nuxt basics
 
   - [Vue explained in 100s](https://youtu.be/nhBVL41-_Cw)
   - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
