@@ -5,9 +5,9 @@
     <span>/</span>
     <NuxtLink to="/life-cycle">Life cycle</NuxtLink>
     <span>/</span>
-    <NuxtLink to="/components">Components</NuxtLink>
-    <span>/</span>
     <NuxtLink to="/directives">Directives</NuxtLink>
+    <span>/</span>
+    <NuxtLink to="/components">Components</NuxtLink>
     <span>/</span>
     <NuxtLink to="/homepage">Home page example</NuxtLink>
   </nav>
