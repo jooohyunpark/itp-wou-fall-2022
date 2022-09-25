@@ -5,13 +5,18 @@
     <Button text="This my button" />
     <Button text="Another button" />
     <Button type="outline" text="Type outline" />
-    <Button type="outline" text="It's reusable!" />
+    <Button type="outline" text="It's reusable!" @click.native="onClick" />
   </div>
 </template>
 
 <script>
 export default {
   name: "components",
+  methods: {
+    onClick() {
+      console.log("clicked!");
+    },
+  },
 };
 </script>
 
