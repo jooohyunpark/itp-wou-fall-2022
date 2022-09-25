@@ -86,13 +86,15 @@ The class codebases mainly use below packages. Please make sure you're using the
   - [Data](https://vuejs.org/api/options-state.html#data), [methods](https://vuejs.org/api/options-state.html#methods)
   - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (mounted, beforeDestroy)
   - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
-  - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/guide/components/props.html#props-declaration)
 
 - Directives
   - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
   - [v-if](https://vuejs.org/api/built-in-directives.html#v-if) - render elements conditionally
   - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
   - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
+  
+ - Components
+    - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/guide/components/props.html#props-declaration)
 
 ## Week 2 - Intro to Scss / Responsive Layout / Advanced styles
 
@@ -100,7 +102,7 @@ The class codebases mainly use below packages. Please make sure you're using the
   - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
   - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
 
-- Responsive Layout
+- Responsive layout
   - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.2/layout/grid/)
 
 - Advanced styles
