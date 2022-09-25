@@ -75,7 +75,7 @@ The class codebases mainly use below packages. Please make sure you're using the
 
 - Intro
 
-  - [Portfolio website examples](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#list-of-creative-portfolio-sites)
+  - [Portfolio website examples](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Notes.md#portfolio-site-examples)
   - [Git](https://www.atlassian.com/git/tutorials/why-git), [Github Desktop](https://desktop.github.com/), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
   - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
