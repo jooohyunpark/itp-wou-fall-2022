@@ -36,6 +36,7 @@ button.primary:hover {
 button.outline {
   color: black;
   border: 1px solid black;
+  background: transparent;
 }
 button.outline:hover {
   color: white;
