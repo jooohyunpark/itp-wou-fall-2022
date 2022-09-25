@@ -8,10 +8,7 @@
           :key="i"
         >
           <NuxtLink :to="work.to">
-            <img
-              :src="require(`../assets/img/${work.src}`)"
-              :alt="work.title"
-            />
+            <img :src="require(`../assets/${work.src}`)" :alt="work.title" />
             <h3>{{ work.title }}</h3>
           </NuxtLink>
         </div>
@@ -25,15 +22,15 @@ export default {
   data() {
     return {
       works: [
-        { title: "Project 1", src: "home/img-1.jpg", to: "project-1" },
-        { title: "Project 2", src: "home/img-2.jpg", to: "project-2" },
-        { title: "Project 3", src: "home/img-3.jpg", to: "project-3" },
-        { title: "Project 4", src: "home/img-4.jpg", to: "project-4" },
-        { title: "Project 5", src: "home/img-5.jpg", to: "project-5" },
-        { title: "Project 6", src: "home/img-6.jpg", to: "project-6" },
-        { title: "Project 7", src: "home/img-7.jpg", to: "project-7" },
-        { title: "Project 8", src: "home/img-8.jpg", to: "project-8" },
-        { title: "Project 9", src: "home/img-9.jpg", to: "project-9" },
+        { title: "Project 1", src: "img/home/img-1.jpg", to: "project-1" },
+        { title: "Project 2", src: "img/home/img-2.jpg", to: "project-2" },
+        { title: "Project 3", src: "img/home/img-3.jpg", to: "project-3" },
+        { title: "Project 4", src: "img/home/img-4.jpg", to: "project-4" },
+        { title: "Project 5", src: "img/home/img-5.jpg", to: "project-5" },
+        { title: "Project 6", src: "img/home/img-6.jpg", to: "project-6" },
+        { title: "Project 7", src: "img/home/img-7.jpg", to: "project-7" },
+        { title: "Project 8", src: "img/home/img-8.jpg", to: "project-8" },
+        { title: "Project 9", src: "img/home/img-9.jpg", to: "project-9" },
       ],
     };
   },

@@ -15,10 +15,7 @@
         >
           <NuxtLink to="/">
             <!-- https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#dyanmic-image-path-in-vue -->
-            <img
-              :src="require(`../assets/img/${work.src}`)"
-              :alt="work.title"
-            />
+            <img :src="require(`../assets/${work.src}`)" :alt="work.title" />
             <h3>{{ work.title }}</h3>
           </NuxtLink>
         </div>
@@ -32,15 +29,15 @@ export default {
   data() {
     return {
       works: [
-        { title: "Title 1", src: "img-1.jpg" },
-        { title: "Title 2", src: "img-2.jpg" },
-        { title: "Title 3", src: "img-3.jpg" },
-        { title: "Title 4", src: "img-4.jpg" },
-        { title: "Title 5", src: "img-5.jpg" },
-        { title: "Title 6", src: "img-6.jpg" },
-        { title: "Title 7", src: "img-7.jpg" },
-        { title: "Title 8", src: "img-8.jpg" },
-        { title: "Title 9", src: "img-9.jpg" },
+        { title: "Title 1", src: "img/img-1.jpg" },
+        { title: "Title 2", src: "img/img-2.jpg" },
+        { title: "Title 3", src: "img/img-3.jpg" },
+        { title: "Title 4", src: "img/img-4.jpg" },
+        { title: "Title 5", src: "img/img-5.jpg" },
+        { title: "Title 6", src: "img/img-6.jpg" },
+        { title: "Title 7", src: "img/img-7.jpg" },
+        { title: "Title 8", src: "img/img-8.jpg" },
+        { title: "Title 9", src: "img/img-9.jpg" },
       ],
     };
   },
