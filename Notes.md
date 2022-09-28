@@ -12,7 +12,9 @@ This section serves as a note to provide more details about class material.
 - https://kbv-wie-gehts.de/
 - https://marioecg.com/
 - https://clementgrellier.fr/
+- https://insidethehead.co/
 - https://kimalbrecht.com/vis/#all
+- https://insidethehead.co/
 - https://www.nikolastype.com/
 - https://mark-appleby.com/
 
