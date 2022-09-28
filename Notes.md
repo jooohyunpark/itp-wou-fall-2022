@@ -9,11 +9,11 @@ This section serves as a note to provide more details about class material.
 - https://hauyuan.myportfolio.com/
 - https://yotammann.info/
 - http://yiwenl.github.io/Sketches/
-- https://www.newrafael.com/
+- https://kbv-wie-gehts.de/
+- https://marioecg.com/
 - https://clementgrellier.fr/
 - https://kimalbrecht.com/vis/#all
 - https://www.nikolastype.com/
-- http://www.robinpayot.com/#eaktr
 - https://mark-appleby.com/
 
 
