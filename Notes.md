@@ -63,6 +63,7 @@ Once installed, you can use it by choosing from language.
 ### Design resources
 - [Responsive grid layout demo](https://www.figma.com/file/endYBKn0VU9VQkzBQBiU50/WOU-grid-layout-demo)
 - [Bootstrap grid overlay (chrome extension)](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg?hl=en-US)
+- [Carbon Design System (IBM)](https://carbondesignsystem.com/guidelines/2x-grid/overview/)
 
 ## week 3
 
