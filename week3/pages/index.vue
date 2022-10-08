@@ -2,11 +2,7 @@
   <div class="home">
     <div class="container">
       <div class="row">
-        <div
-          class="work col-xs-12 col-md-6"
-          v-for="(work, i) of works"
-          :key="i"
-        >
+        <div class="work col-12 col-md-6" v-for="(work, i) of works" :key="i">
           <NuxtLink :to="work.to">
             <img :src="require(`../assets/${work.src}`)" :alt="work.title" />
             <h3>{{ work.title }}</h3>

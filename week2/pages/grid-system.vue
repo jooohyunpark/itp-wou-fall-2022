@@ -9,7 +9,7 @@
 
       <div class="row">
         <div
-          class="work col-xs-12 col-md-6 col-xxl-4"
+          class="work col-12 col-md-6 col-xxl-4"
           v-for="(work, i) of works"
           :key="i"
         >

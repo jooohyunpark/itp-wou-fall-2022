@@ -2,7 +2,7 @@
   <div class="custom-fonts-page">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-md-8 col-xl-6">
+        <div class="col-12 col-md-8 col-xl-6">
           <h2 class="title">Title comes here</h2>
           <h3 class="subtitle">Subtitle here</h3>
 

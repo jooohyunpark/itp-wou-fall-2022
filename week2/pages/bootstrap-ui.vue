@@ -2,11 +2,11 @@
   <div class="bootstrap-ui-page">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12">
+        <div class="col-12">
           <h2>Bootstrap UI</h2>
         </div>
 
-        <div class="col-xs-12 content">
+        <div class="col-12 content">
           <h3>Buttons</h3>
           <button type="button" class="btn btn-primary" @click="onClick">
             Primary
@@ -33,7 +33,7 @@
           <Button text="Link" class="btn-link" />
         </div>
 
-        <div class="col-xs-12 content">
+        <div class="col-12 content">
           <h3>Dropdown</h3>
           <div class="dropdown">
             <button
@@ -52,7 +52,7 @@
           </div>
         </div>
 
-        <div class="col-xs-12 content">
+        <div class="col-12 content">
           <h3>Spinners</h3>
           <div class="spinner-border text-primary" role="status">
             <span class="visually-hidden">Loading...</span>
@@ -80,7 +80,7 @@
           </div>
         </div>
 
-        <div class="col-xs-12 content">
+        <div class="col-12 content">
           <h3>Carousel</h3>
 
           <div id="carousel" class="carousel slide">
