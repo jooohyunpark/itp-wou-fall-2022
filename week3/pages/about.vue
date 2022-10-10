@@ -2,7 +2,7 @@
   <div class="about">
     <div class="container">
       <div class="row">
-        <div class="col-12 col-lg-4">
+        <div class="col-12 col-lg-6">
           <img
             class="profile"
             src="../assets/img/about/itp-floor.jpg"
