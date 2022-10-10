@@ -11,6 +11,7 @@
 
           <p>
             Codes are written within the component using data, mounted, methods.
+            Result is exactly same as ver 1.
           </p>
         </div>
 

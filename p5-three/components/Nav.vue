@@ -7,7 +7,7 @@
     <span>/</span>
     <NuxtLink to="/three">three</NuxtLink>
     <span>/</span>
-    <NuxtLink to="/three-2">three (ver2)</NuxtLink>
+    <NuxtLink to="/three-2">three (ver 2)</NuxtLink>
   </nav>
 </template>
 <script>
