@@ -114,7 +114,7 @@ The class codebases mainly use below packages. Please make sure you're using the
 
 - Recap
 
-  - [Demo site](https://github.com/jooohyunpark/itp-wou-fall-2022/tree/main/week3)
+  - [Demo site](https://github.com/jooohyunpark/wou-demo-site)
     - Home page
     - Project page
     - About page
