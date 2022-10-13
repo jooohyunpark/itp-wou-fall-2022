@@ -3,6 +3,7 @@
     <div class="container">
       <div class="row">
         <h4>p5 boilerplate</h4>
+        <p>This is an p5.js starter page. Check the code.</p>
         <div id="p5-canvas" class="col" ref="canvas"></div>
       </div>
     </div>
