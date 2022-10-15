@@ -80,7 +80,8 @@
           <h2>Contact</h2>
           <a href="https://github.com/jooohyunpark/itp-wou-fall-2022">Github</a>
           /
-          <a href="mailto:jhp527@nyu.edu">Email</a> / <a href="">etc</a>
+          <a href="mailto:jhp527@nyu.edu">Email</a> /
+          <a href="https://github.com/jooohyunpark/itp-wou-fall-2022">etc</a>
         </div>
       </div>
     </div>
