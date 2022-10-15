@@ -46,7 +46,7 @@ export default {
       };
 
       p5.draw = () => {
-        p5.background(0, 0, 50, 100);
+        p5.background(255, 204, 100);
         recordParticles();
         drawParticles();
         killParticles();
