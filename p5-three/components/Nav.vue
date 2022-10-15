@@ -5,6 +5,8 @@
     <span>/</span>
     <NuxtLink to="/p5">p5</NuxtLink>
     <span>/</span>
+    <NuxtLink to="/p5-embed">p5 embed</NuxtLink>
+    <span>/</span>
     <NuxtLink to="/three">three</NuxtLink>
     <span>/</span>
     <NuxtLink to="/three-2">three (ver 2)</NuxtLink>
