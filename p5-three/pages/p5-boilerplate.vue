@@ -18,6 +18,7 @@ export default {
       add p5. in all p5js specific functions/variables
        */
       p5.setup = () => {
+        const { width, height } = this.$refs.canvas.getBoundingClientRect();
         const canvas = p5.createCanvas(width, height);
         canvas.parent("p5-canvas");
 
@@ -42,6 +43,7 @@ export default {
 
     // NOTE: Use p5 as an instance mode
     const P5 = require("p5");
+
     new P5(sketch);
   },
 };
