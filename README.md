@@ -4,7 +4,7 @@ This is the repository for Fall 2022 ITP class Website of You.
 
 ## Info
 
-- Joohyun Park [📧](mailto:jhp527@nyu.edu)
+- Joohyun Park
 - [Syllabus](https://jooohyunpark.github.io/itp-wou-fall-2022/)
 - Class dates
   - 10/01/2022, Saturday, 12:20pm-3:20pm
@@ -14,7 +14,6 @@ This is the repository for Fall 2022 ITP class Website of You.
   - 10/01/2022, Saturday, 3:30pm-4:30pm
   - 10/08/2022, Saturday, 3:30pm-4:30pm
   - 10/15/2022, Saturday, 3:30pm-4:30pm
-- [Zoom](https://nyu.zoom.us/my/itpwou)
 
 ## Course Ojbectives
 
